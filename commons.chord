@@ -1,0 +1,128 @@
+﻿{
+  "chords": [
+    {
+      "name": "Am",
+      "key": "A",
+      "capo": 0,
+      "positions": [
+        {
+          "string": 1,
+          "position": null
+        },
+        {
+          "string": 2,
+          "position": 0
+        },
+        {
+          "string": 3,
+          "position": 2
+        },
+        {
+          "string": 4,
+          "position": 2
+        },
+        {
+          "string": 5,
+          "position": 1
+        },
+        {
+          "string": 6,
+          "position": 0
+        }
+      ]
+    },
+    {
+      "name": "A",
+      "key": "A",
+      "capo": 0,
+      "positions": [
+        {
+          "string": 1,
+          "position": null
+        },
+        {
+          "string": 2,
+          "position": 0
+        },
+        {
+          "string": 3,
+          "position": 2
+        },
+        {
+          "string": 4,
+          "position": 2
+        },
+        {
+          "string": 5,
+          "position": 2
+        },
+        {
+          "string": 6,
+          "position": 0
+        }
+      ]
+    },
+    {
+      "name": "C",
+      "key": "C",
+      "capo": 0,
+      "positions": [
+        {
+          "string": 1,
+          "position": null
+        },
+        {
+          "string": 2,
+          "position": 3
+        },
+        {
+          "string": 3,
+          "position": 2
+        },
+        {
+          "string": 4,
+          "position": 0
+        },
+        {
+          "string": 5,
+          "position": 1
+        },
+        {
+          "string": 6,
+          "position": 0
+        }
+      ]
+    },
+    {
+      "name": "G",
+      "key": "G",
+      "capo": 0,
+      "positions": [
+        {
+          "string": 1,
+          "position": 3
+        },
+        {
+          "string": 2,
+          "position": 2
+        },
+        {
+          "string": 3,
+          "position": 0
+        },
+        {
+          "string": 4,
+          "position": 0
+        },
+        {
+          "string": 5,
+          "position": 3
+        },
+        {
+          "string": 6,
+          "position": 3
+        }
+      ]
+    }
+  ]
+}

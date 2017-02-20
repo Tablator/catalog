@@ -1,0 +1,26 @@
+﻿{
+  "references": [
+    {
+      "path": "Francis Cabrel\\Je laime a mourir",
+      "artist": "Francis Cabrel",
+      "name": "Je l'aime à mourir",
+      "parents": [
+        {
+          "id": "4BBD4A60-5EDF-40B2-BF91-7687E3A94755",
+          "position": 1
+        }
+      ]
+    },
+    {
+      "path": "Matthieu Chedid\\Le tour de M\\Faut oublier",
+      "artist": "Matthieu Chedid",
+      "name": "Faut oublier",
+      "parents": [
+        {
+          "id": "5CC91AAA-7207-4940-80FB-F173FC09DE39",
+          "position": 1
+        }
+      ]
+    }
+  ]
+}
