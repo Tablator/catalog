@@ -1,6 +1,13 @@
 {
   "song": "Je l'aime à mourir",
   "artist": "Francis Cabrel",
+  "src": {
+    "type": 1,
+    "support": 1,
+    "val": "kJnnyxlzbWQ",
+    "name": "Tutoriel de MrGalagomusic",
+    "desc": ""
+  },
   "software": {
     "version": {
       "major": 1,
