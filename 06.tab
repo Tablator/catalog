@@ -1,0 +1,514 @@
+{
+  "song": "Je l'aime à mourir",
+  "artist": "Francis Cabrel",
+  "src": {
+    "type": 1,
+    "support": 1,
+    "val": "kJnnyxlzbWQ",
+    "name": "Tutoriel de MrGalagomusic",
+    "desc": ""
+  },
+  "software": {
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "revision": 0
+    }
+  },
+  "tempo": 80,
+  "mesure": 44,
+  "instrument": "guitare",
+  "instrument_type": "guitare folk",
+  "instrument_settings": [
+    {
+      "cod": 1,
+      "val": "standard"
+    },
+    {
+      "cod": 2,
+      "val": "5"
+    },
+    {
+      "cod": 3,
+      "val": "Am|C|C/B|Dm|F|G|Bsus2|A"
+    }
+  ],
+  "instrument_effects": null,
+  "enchainement": [
+    {
+      "id": 1,
+      "repeat": 1
+    },
+    {
+      "id": 2,
+      "repeat": 3
+    }
+  ],
+  "parties": [
+    {
+      "id": 1,
+      "mesures": [
+        {
+          "temps": [
+            {
+              "dur": 1,
+              "sons": [
+                {
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 2
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 6,
+                      "val": "B"
+                    },
+                    {
+                      "cod": 7,
+                      "val": true
+                    }
+                  ]
+                },
+                {
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 2
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 6,
+                      "val": "B"
+                    },
+                    {
+                      "cod": 7,
+                      "val": true
+                    }
+                  ]
+                },
+                {
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 2
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 6,
+                      "val": "B"
+                    },
+                    {
+                      "cod": 7,
+                      "val": true
+                    }
+                  ]
+                },
+                {
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 2
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 6,
+                      "val": "B"
+                    },
+                    {
+                      "cod": 7,
+                      "val": true
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "dur": 1,
+              "sons": [
+                {
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 2
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 6,
+                      "val": "B"
+                    },
+                    {
+                      "cod": 7,
+                      "val": true
+                    }
+                  ]
+                },
+                {
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 2
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 6,
+                      "val": "B"
+                    },
+                    {
+                      "cod": 7,
+                      "val": true
+                    }
+                  ]
+                },
+                {
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 2
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 6,
+                      "val": "B"
+                    },
+                    {
+                      "cod": 7,
+                      "val": true
+                    }
+                  ]
+                },
+                {
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 2
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 6,
+                      "val": "B"
+                    },
+                    {
+                      "cod": 7,
+                      "val": true
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "dur": 1,
+              "sons": [
+                {
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 2
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 6,
+                      "val": "B"
+                    },
+                    {
+                      "cod": 7,
+                      "val": true
+                    }
+                  ]
+                },
+                {
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 2
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 6,
+                      "val": "B"
+                    },
+                    {
+                      "cod": 7,
+                      "val": true
+                    }
+                  ]
+                },
+                {
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 2
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 6,
+                      "val": "B"
+                    },
+                    {
+                      "cod": 7,
+                      "val": true
+                    }
+                  ]
+                },
+                {
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 2
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 6,
+                      "val": "B"
+                    },
+                    {
+                      "cod": 7,
+                      "val": true
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "dur": 1,
+              "sons": [
+                {
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 2
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 6,
+                      "val": "B"
+                    },
+                    {
+                      "cod": 7,
+                      "val": true
+                    }
+                  ]
+                },
+                {
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 2
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 6,
+                      "val": "B"
+                    },
+                    {
+                      "cod": 7,
+                      "val": true
+                    }
+                  ]
+                },
+                {
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 2
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 6,
+                      "val": "B"
+                    },
+                    {
+                      "cod": 7,
+                      "val": true
+                    }
+                  ]
+                },
+                {
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 2
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 6,
+                      "val": "B"
+                    },
+                    {
+                      "cod": 7,
+                      "val": true
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "temps": [
+            {
+              "dur": 2,
+              "sons": [
+                {
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 2
+                    },
+                    {
+                      "cod": 2,
+                      "val": 3
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 6,
+                      "val": "B"
+                    },
+                    {
+                      "cod": 7,
+                      "val": true
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "dur": 2,
+              "sons": null
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "lang": "fr",
+      "comment": "commentaire général au sujet du la chanson",
+      "content": [
+        {
+          "type": 1,
+          "field": 1,
+          "id": 1,
+          "content": "Intro"
+        }
+      ],
+      "tags": null
+    }
+  ]
+}
