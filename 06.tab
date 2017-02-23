@@ -5399,7 +5399,8 @@
           "id": "69c0e030-f496-4865-bb17-569399091da5",
           "content": "Refrain"
         }
-      ]
+      ],
+      "tags": [ "acoustique", "arpèges" ]
     },
     {
       "lng": "en",
@@ -5423,7 +5424,8 @@
           "id": "69c0e030-f496-4865-bb17-569399091da5",
           "content": "part refrain"
         }
-      ]
+      ],
+      "tags": [ "acoustic" ]
     }
   ]
 }
