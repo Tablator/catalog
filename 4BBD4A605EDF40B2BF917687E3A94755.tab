@@ -1,155 +1,507 @@
 {
-  "song": "Je l'aime à mourir",
-  "artist": "Francis Cabrel",
-  "software": {
-    "version": {
-      "major": 1,
-      "minor": 0,
-      "revision": 0
-    }
-  },
-  "capodastre": 5,
-  "tempo": 80,
-  "mesure": 44,
-  "tuning": "standard",
-  "chords": [ "Am", "C", "C/B", "Dm", "F", "G", "Bsus2", "A" ],
-  "enchainement": [
+  "pprts": [
     {
-      "id": 1,
-      "repeat": 1
+      "cod": 1,
+      "val": "Je l'aime à mourir"
     },
     {
-      "id": 2,
-      "repeat": 3
+      "cod": 2,
+      "val": "Francis Cabrel"
     },
     {
-      "id": 3,
-      "repeat": 2
+      "cod": 3,
+      "val": 80
     },
     {
-      "id": 2,
-      "repeat": 2
-    },
-    {
-      "id": 3,
-      "repeat": 2
+      "cod": 4,
+      "val":44
     }
   ],
-  "parties": [
+  "src": {
+    "type": 1,
+    "support": 1,
+    "val": "kJnnyxlzbWQ",
+    "name": "Tutoriel de MrGalagomusic",
+    "desc": ""
+  },
+  "sftvrsns": [
     {
-      "id": 1,
+      "dt": "2017-02-22T07:22Z",
+      "mjr": 0,
+      "mnr": 0,
+      "rev": 16
+    }
+  ],
+  "instrument": 1,
+  "instrument_type": 3,
+  "instrument_settings": [
+    {
+      "cod": 1,
+      "val": "standard"
+    },
+    {
+      "cod": 2,
+      "val": "5"
+    },
+    {
+      "cod": 3,
+      "val": "Am|C|C/B|Dm|F|G|Bsus2|A"
+    }
+  ],
+  "instrument_effects": null,
+  "strctr": [
+    {
+      "id": "59e4f4d7-247d-45ff-b62d-2e7e5397251a",
+      "rpt": 1
+    },
+    {
+      "id": "21c929c4-600e-48ec-8717-678c1824eec7",
+      "rpt": 3
+    },
+    {
+      "id": "69c0e030-f496-4865-bb17-569399091da5",
+      "rpt": 2
+    },
+    {
+      "id": "21c929c4-600e-48ec-8717-678c1824eec7",
+      "rpt": 2
+    },
+    {
+      "id": "69c0e030-f496-4865-bb17-569399091da5",
+      "rpt": 2
+    }
+  ],
+  "prts": [
+    {
+      "id": "59e4f4d7-247d-45ff-b62d-2e7e5397251a",
       "mesures": [
         {
           "temps": [
             {
-              "chord": "C",
               "nbTemps": 1,
+              "properties": [
+                {
+                  "cod": 1,
+                  "val": "C"
+                }
+              ],
               "sons": [
                 {
-                  "corde": 2,
-                  "position": 3,
-                  "type": 1,"dur": 6,
-                  "mute": false
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 3
+                    },
+                    {
+                      "cod": 5,
+                      "val": 6
+                    }
+                  ]
                 },
                 {
-                  "corde": 6,
-                  "position": 0,
-                  "type": 1,"dur": 6,
-                  "mute": false
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 0
+                    },
+                    {
+                      "cod": 5,
+                      "val": 6
+                    }
+                  ]
                 },
                 {
-                  "corde": 5,
-                  "position": 1,
-                  "type": 1,"dur": 6,
-                  "mute": false
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 1
+                    },
+                    {
+                      "cod": 5,
+                      "val": 5
+                    }
+                  ]
                 },
                 {
-                  "corde": 4,
-                  "position": 0,
-                  "type": 1,"dur": 6,
-                  "mute": false
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 0
+                    },
+                    {
+                      "cod": 5,
+                      "val": 4
+                    }
+                  ]
                 }
               ]
             },
             {
-              "chord": "C",
               "nbTemps": 1,
+              "properties": [
+                {
+                  "cod": 1,
+                  "val": "C"
+                }
+              ],
               "sons": [
                 {
-                  "corde": 3,
-                  "position": 2,
-                  "type": 1,"dur": 6,
-                  "mute": false
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 2
+                    },
+                    {
+                      "cod": 5,
+                      "val": 3
+                    }
+                  ]
                 },
                 {
-                  "corde": 6,
-                  "position": 0,
-                  "type": 1,"dur": 6,
-                  "mute": false
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 0
+                    },
+                    {
+                      "cod": 5,
+                      "val": 6
+                    }
+                  ]
                 },
                 {
-                  "corde": 5,
-                  "position": 1,
-                  "type": 1,"dur": 6,
-                  "mute": false
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 1
+                    },
+                    {
+                      "cod": 5,
+                      "val": 5
+                    }
+                  ]
                 },
                 {
-                  "corde": 4,
-                  "position": 0,
-                  "type": 1,"dur": 6,
-                  "mute": false
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 0
+                    },
+                    {
+                      "cod": 5,
+                      "val": 4
+                    }
+                  ]
                 }
               ]
             },
             {
-              "chord": "Em7",
               "nbTemps": 1,
+              "properties": [
+                {
+                  "cod": 1,
+                  "val": "Em7"
+                }
+              ],
               "sons": [
                 {
-                  "corde": 2,
-                  "position": 2,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 2
+                    },
+                    {
+                      "cod": 5,
+                      "val": 6
+                    }
+                  ]
                 },
                 {
-                  "corde": 6,
-                  "position": 0,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 0
+                    },
+                    {
+                      "cod": 5,
+                      "val": 6
+                    }
+                  ]
                 },
                 {
-                  "corde": 5,
-                  "position": 1,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 1
+                    },
+                    {
+                      "cod": 5,
+                      "val": 5
+                    }
+                  ]
                 },
                 {
-                  "corde": 4,
-                  "position": 0,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 0
+                    },
+                    {
+                      "cod": 5,
+                      "val": 4
+                    }
+                  ]
                 }
               ]
             },
             {
-              "chord": "Em7",
               "nbTemps": 1,
+              "properties": [
+                {
+                  "cod": 1,
+                  "val": "Em7"
+                }
+              ],
               "sons": [
                 {
-                  "corde": 3,
-                  "position": 0,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 0
+                    },
+                    {
+                      "cod": 5,
+                      "val": 3
+                    }
+                  ]
                 },
                 {
-                  "corde": 6,
-                  "position": 0,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 0
+                    },
+                    {
+                      "cod": 5,
+                      "val": 6
+                    }
+                  ]
                 },
                 {
-                  "corde": 5,
-                  "position": 1,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 1
+                    },
+                    {
+                      "cod": 5,
+                      "val": 6
+                    }
+                  ]
                 },
                 {
-                  "corde": 4,
-                  "position": 0,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 0
+                    },
+                    {
+                      "cod": 5,
+                      "val": 4
+                    }
+                  ]
                 }
               ]
             }
@@ -158,106 +510,430 @@
         {
           "temps": [
             {
-              "chord": "C",
               "nbTemps": 1,
+              "properties": [
+                {
+                  "cod": 1,
+                  "val": "C"
+                }
+              ],
               "sons": [
                 {
-                  "corde": 2,
-                  "position": 3,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 3
+                    },
+                    {
+                      "cod": 5,
+                      "val": 2
+                    }
+                  ]
                 },
                 {
-                  "corde": 6,
-                  "position": 0,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 0
+                    },
+                    {
+                      "cod": 5,
+                      "val": 6
+                    }
+                  ]
                 },
                 {
-                  "corde": 5,
-                  "position": 1,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 1
+                    },
+                    {
+                      "cod": 5,
+                      "val": 5
+                    }
+                  ]
                 },
                 {
-                  "corde": 4,
-                  "position": 0,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 0
+                    },
+                    {
+                      "cod": 5,
+                      "val": 4
+                    }
+                  ]
                 }
               ]
             },
             {
-              "chord": "C",
               "nbTemps": 1,
+              "properties": [
+                {
+                  "cod": 1,
+                  "val": "C"
+                }
+              ],
               "sons": [
                 {
-                  "corde": 3,
-                  "position": 2,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 2
+                    },
+                    {
+                      "cod": 5,
+                      "val": 3
+                    }
+                  ]
                 },
                 {
-                  "corde": 6,
-                  "position": 0,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 0
+                    },
+                    {
+                      "cod": 5,
+                      "val": 6
+                    }
+                  ]
                 },
                 {
-                  "corde": 5,
-                  "position": 1,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 1
+                    },
+                    {
+                      "cod": 5,
+                      "val": 6
+                    }
+                  ]
                 },
                 {
-                  "corde": 4,
-                  "position": 0,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 0
+                    },
+                    {
+                      "cod": 5,
+                      "val": 4
+                    }
+                  ]
                 }
               ]
             },
             {
-              "chord": "Em7",
               "nbTemps": 1,
+              "properties": [
+                {
+                  "cod": 1,
+                  "val": "Em7"
+                }
+              ],
               "sons": [
                 {
-                  "corde": 2,
-                  "position": 2,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 2
+                    },
+                    {
+                      "cod": 5,
+                      "val": 2
+                    }
+                  ]
                 },
                 {
-                  "corde": 6,
-                  "position": 0,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 0
+                    },
+                    {
+                      "cod": 5,
+                      "val": 6
+                    }
+                  ]
                 },
                 {
-                  "corde": 5,
-                  "position": 1,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 1
+                    },
+                    {
+                      "cod": 5,
+                      "val": 6
+                    }
+                  ]
                 },
                 {
-                  "corde": 4,
-                  "position": 0,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 0
+                    },
+                    {
+                      "cod": 5,
+                      "val": 4
+                    }
+                  ]
                 }
               ]
             },
             {
-              "chord": "Em7",
               "nbTemps": 1,
+              "properties": [
+                {
+                  "cod": 1,
+                  "val": "Em7"
+                }
+              ],
               "sons": [
                 {
-                  "corde": 3,
-                  "position": 0,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 0
+                    },
+                    {
+                      "cod": 5,
+                      "val": 3
+                    }
+                  ]
                 },
                 {
-                  "corde": 6,
-                  "position": 0,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 0
+                    },
+                    {
+                      "cod": 5,
+                      "val": 6
+                    }
+                  ]
                 },
                 {
-                  "corde": 5,
-                  "position": 1,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 1
+                    },
+                    {
+                      "cod": 5,
+                      "val": 6
+                    }
+                  ]
                 },
                 {
-                  "corde": 4,
-                  "position": 0,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 0
+                    },
+                    {
+                      "cod": 5,
+                      "val": 4
+                    }
+                  ]
                 }
               ]
             }
@@ -266,759 +942,2907 @@
       ]
     },
     {
-      "id": 2,
+      "id": "21c929c4-600e-48ec-8717-678c1824eec7",
       "mesures": [
         {
+          "properties": [
+            {
+              "cod": 1,
+              "val": "C"
+            }
+          ],
           "temps": [
             {
-              "chord": "C",
               "nbTemps": 1,
               "sons": [
                 {
-                  "corde": 2,
-                  "position": 3,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 0
+                    },
+                    {
+                      "cod": 5,
+                      "val": 3
+                    }
+                  ]
                 },
                 {
-                  "corde": 6,
-                  "position": 0,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 0
+                    },
+                    {
+                      "cod": 5,
+                      "val": 6
+                    }
+                  ]
                 },
                 {
-                  "corde": 5,
-                  "position": 1,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 1
+                    },
+                    {
+                      "cod": 5,
+                      "val": 5
+                    }
+                  ]
                 },
                 {
-                  "corde": 4,
-                  "position": 0,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 0
+                    },
+                    {
+                      "cod": 5,
+                      "val": 4
+                    }
+                  ]
                 }
               ]
             },
             {
-              "chord": "C",
               "nbTemps": 1,
               "sons": [
                 {
-                  "corde": 3,
-                  "position": 2,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 0
+                    },
+                    {
+                      "cod": 5,
+                      "val": 3
+                    }
+                  ]
                 },
                 {
-                  "corde": 6,
-                  "position": 0,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 0
+                    },
+                    {
+                      "cod": 5,
+                      "val": 6
+                    }
+                  ]
                 },
                 {
-                  "corde": 5,
-                  "position": 1,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 1
+                    },
+                    {
+                      "cod": 5,
+                      "val": 5
+                    }
+                  ]
                 },
                 {
-                  "corde": 4,
-                  "position": 0,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 0
+                    },
+                    {
+                      "cod": 5,
+                      "val": 4
+                    }
+                  ]
                 }
               ]
             },
             {
-              "chord": "C",
               "nbTemps": 1,
               "sons": [
                 {
-                  "corde": 2,
-                  "position": 3,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 0
+                    },
+                    {
+                      "cod": 5,
+                      "val": 3
+                    }
+                  ]
                 },
                 {
-                  "corde": 6,
-                  "position": 0,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 0
+                    },
+                    {
+                      "cod": 5,
+                      "val": 6
+                    }
+                  ]
                 },
                 {
-                  "corde": 5,
-                  "position": 1,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 1
+                    },
+                    {
+                      "cod": 5,
+                      "val": 5
+                    }
+                  ]
                 },
                 {
-                  "corde": 4,
-                  "position": 0,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 0
+                    },
+                    {
+                      "cod": 5,
+                      "val": 4
+                    }
+                  ]
                 }
               ]
             },
             {
-              "chord": "C",
               "nbTemps": 1,
               "sons": [
                 {
-                  "corde": 3,
-                  "position": 2,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 0
+                    },
+                    {
+                      "cod": 5,
+                      "val": 3
+                    }
+                  ]
                 },
                 {
-                  "corde": 6,
-                  "position": 0,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 0
+                    },
+                    {
+                      "cod": 5,
+                      "val": 6
+                    }
+                  ]
                 },
                 {
-                  "corde": 5,
-                  "position": 1,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 1
+                    },
+                    {
+                      "cod": 5,
+                      "val": 5
+                    }
+                  ]
                 },
                 {
-                  "corde": 4,
-                  "position": 0,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 0
+                    },
+                    {
+                      "cod": 5,
+                      "val": 4
+                    }
+                  ]
                 }
               ]
             }
           ]
         },
         {
+          "properties": [
+            {
+              "cod": 1,
+              "val": "Em7"
+            }
+          ],
           "temps": [
             {
-              "chord": "Em7",
               "nbTemps": 1,
               "sons": [
                 {
-                  "corde": 2,
-                  "position": 2,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 2
+                    },
+                    {
+                      "cod": 5,
+                      "val": 2
+                    }
+                  ]
                 },
                 {
-                  "corde": 6,
-                  "position": 0,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 0
+                    },
+                    {
+                      "cod": 5,
+                      "val": 6
+                    }
+                  ]
                 },
                 {
-                  "corde": 5,
-                  "position": 1,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 1
+                    },
+                    {
+                      "cod": 5,
+                      "val": 5
+                    }
+                  ]
                 },
                 {
-                  "corde": 4,
-                  "position": 0,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 0
+                    },
+                    {
+                      "cod": 5,
+                      "val": 4
+                    }
+                  ]
                 }
               ]
             },
             {
-              "chord": "Em7",
               "nbTemps": 1,
               "sons": [
                 {
-                  "corde": 3,
-                  "position": 0,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 0
+                    },
+                    {
+                      "cod": 5,
+                      "val": 3
+                    }
+                  ]
                 },
                 {
-                  "corde": 6,
-                  "position": 0,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 0
+                    },
+                    {
+                      "cod": 5,
+                      "val": 6
+                    }
+                  ]
                 },
                 {
-                  "corde": 5,
-                  "position": 1,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 1
+                    },
+                    {
+                      "cod": 5,
+                      "val": 5
+                    }
+                  ]
                 },
                 {
-                  "corde": 4,
-                  "position": 0,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 0
+                    },
+                    {
+                      "cod": 5,
+                      "val": 4
+                    }
+                  ]
                 }
               ]
             },
             {
-              "chord": "Em7",
               "nbTemps": 1,
               "sons": [
                 {
-                  "corde": 2,
-                  "position": 2,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 2
+                    },
+                    {
+                      "cod": 5,
+                      "val": 2
+                    }
+                  ]
                 },
                 {
-                  "corde": 6,
-                  "position": 0,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 0
+                    },
+                    {
+                      "cod": 5,
+                      "val": 6
+                    }
+                  ]
                 },
                 {
-                  "corde": 5,
-                  "position": 1,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 1
+                    },
+                    {
+                      "cod": 5,
+                      "val": 5
+                    }
+                  ]
                 },
                 {
-                  "corde": 4,
-                  "position": 0,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 0
+                    },
+                    {
+                      "cod": 5,
+                      "val": 4
+                    }
+                  ]
                 }
               ]
             },
             {
-              "chord": "Em7",
               "nbTemps": 1,
               "sons": [
                 {
-                  "corde": 3,
-                  "position": 0,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 0
+                    },
+                    {
+                      "cod": 5,
+                      "val": 3
+                    }
+                  ]
                 },
                 {
-                  "corde": 6,
-                  "position": 0,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 0
+                    },
+                    {
+                      "cod": 5,
+                      "val": 6
+                    }
+                  ]
                 },
                 {
-                  "corde": 5,
-                  "position": 1,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 1
+                    },
+                    {
+                      "cod": 5,
+                      "val": 5
+                    }
+                  ]
                 },
                 {
-                  "corde": 4,
-                  "position": 0,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 0
+                    },
+                    {
+                      "cod": 5,
+                      "val": 4
+                    }
+                  ]
                 }
               ]
             }
           ]
         },
         {
+          "properties": [
+            {
+              "cod": 1,
+              "val": "Am"
+            }
+          ],
           "temps": [
             {
-              "chord": "Am",
               "nbTemps": 1,
               "sons": [
                 {
-                  "corde": 2,
-                  "position": 0,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 0
+                    },
+                    {
+                      "cod": 5,
+                      "val": 2
+                    }
+                  ]
                 },
                 {
-                  "corde": 6,
-                  "position": 0,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 0
+                    },
+                    {
+                      "cod": 5,
+                      "val": 6
+                    }
+                  ]
                 },
                 {
-                  "corde": 5,
-                  "position": 1,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 1
+                    },
+                    {
+                      "cod": 5,
+                      "val": 6
+                    }
+                  ]
                 },
                 {
-                  "corde": 4,
-                  "position": 2,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 1
+                    },
+                    {
+                      "cod": 5,
+                      "val": 6
+                    }
+                  ]
                 }
               ]
             },
             {
-              "chord": "Am",
               "nbTemps": 1,
               "sons": [
                 {
-                  "corde": 3,
-                  "position": 2,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 2
+                    },
+                    {
+                      "cod": 5,
+                      "val": 3
+                    }
+                  ]
                 },
                 {
-                  "corde": 6,
-                  "position": 0,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 0
+                    },
+                    {
+                      "cod": 5,
+                      "val": 6
+                    }
+                  ]
                 },
                 {
-                  "corde": 5,
-                  "position": 1,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 1
+                    },
+                    {
+                      "cod": 5,
+                      "val": 6
+                    }
+                  ]
                 },
                 {
-                  "corde": 4,
-                  "position": 2,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 2
+                    },
+                    {
+                      "cod": 5,
+                      "val": 4
+                    }
+                  ]
                 }
               ]
             },
             {
-              "chord": "Am",
               "nbTemps": 1,
               "sons": [
                 {
-                  "corde": 2,
-                  "position": 0,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 0
+                    },
+                    {
+                      "cod": 5,
+                      "val": 2
+                    }
+                  ]
                 },
                 {
-                  "corde": 6,
-                  "position": 0,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 0
+                    },
+                    {
+                      "cod": 5,
+                      "val": 6
+                    }
+                  ]
                 },
                 {
-                  "corde": 5,
-                  "position": 1,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 1
+                    },
+                    {
+                      "cod": 5,
+                      "val": 5
+                    }
+                  ]
                 },
                 {
-                  "corde": 4,
-                  "position": 2,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 2
+                    },
+                    {
+                      "cod": 5,
+                      "val": 4
+                    }
+                  ]
                 }
               ]
             },
             {
-              "chord": "Am",
               "nbTemps": 1,
               "sons": [
                 {
-                  "corde": 3,
-                  "position": 2,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 2
+                    },
+                    {
+                      "cod": 5,
+                      "val": 3
+                    }
+                  ]
                 },
                 {
-                  "corde": 6,
-                  "position": 0,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 0
+                    },
+                    {
+                      "cod": 5,
+                      "val": 6
+                    }
+                  ]
                 },
                 {
-                  "corde": 5,
-                  "position": 1,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 1
+                    },
+                    {
+                      "cod": 5,
+                      "val": 6
+                    }
+                  ]
                 },
                 {
-                  "corde": 4,
-                  "position": 2,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 2
+                    },
+                    {
+                      "cod": 5,
+                      "val": 4
+                    }
+                  ]
                 }
               ]
             }
           ]
         },
         {
+          "properties": [
+            {
+              "cod": 1,
+              "val": "Dm"
+            }
+          ],
           "temps": [
             {
-              "chord": "Dm",
               "nbTemps": 1,
               "sons": [
                 {
-                  "corde": 3,
-                  "position": 0,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 0
+                    },
+                    {
+                      "cod": 5,
+                      "val": 3
+                    }
+                  ]
                 },
                 {
-                  "corde": 6,
-                  "position": 1,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 1
+                    },
+                    {
+                      "cod": 5,
+                      "val": 6
+                    }
+                  ]
                 },
                 {
-                  "corde": 5,
-                  "position": 3,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 3
+                    },
+                    {
+                      "cod": 5,
+                      "val": 5
+                    }
+                  ]
                 },
                 {
-                  "corde": 4,
-                  "position": 2,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 2
+                    },
+                    {
+                      "cod": 5,
+                      "val": 4
+                    }
+                  ]
                 }
               ]
             },
             {
-              "chord": "Dm",
               "nbTemps": 1,
               "sons": [
                 {
-                  "corde": 3,
-                  "position": 0,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 0
+                    },
+                    {
+                      "cod": 5,
+                      "val": 3
+                    }
+                  ]
                 },
                 {
-                  "corde": 6,
-                  "position": 1,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 1
+                    },
+                    {
+                      "cod": 5,
+                      "val": 6
+                    }
+                  ]
                 },
                 {
-                  "corde": 5,
-                  "position": 3,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 3
+                    },
+                    {
+                      "cod": 5,
+                      "val": 5
+                    }
+                  ]
                 },
                 {
-                  "corde": 4,
-                  "position": 2,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 2
+                    },
+                    {
+                      "cod": 5,
+                      "val": 4
+                    }
+                  ]
                 }
               ]
             },
             {
-              "chord": "Dm",
               "nbTemps": 1,
               "sons": [
                 {
-                  "corde": 3,
-                  "position": 0,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 0
+                    },
+                    {
+                      "cod": 5,
+                      "val": 3
+                    }
+                  ]
                 },
                 {
-                  "corde": 6,
-                  "position": 1,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 1
+                    },
+                    {
+                      "cod": 5,
+                      "val": 6
+                    }
+                  ]
                 },
                 {
-                  "corde": 5,
-                  "position": 3,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 3
+                    },
+                    {
+                      "cod": 5,
+                      "val": 5
+                    }
+                  ]
                 },
                 {
-                  "corde": 4,
-                  "position": 2,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 2
+                    },
+                    {
+                      "cod": 5,
+                      "val": 4
+                    }
+                  ]
                 }
               ]
             },
             {
-              "chord": "Dm",
               "nbTemps": 1,
               "sons": [
                 {
-                  "corde": 3,
-                  "position": 0,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 0
+                    },
+                    {
+                      "cod": 5,
+                      "val": 3
+                    }
+                  ]
                 },
                 {
-                  "corde": 6,
-                  "position": 1,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 1
+                    },
+                    {
+                      "cod": 5,
+                      "val": 6
+                    }
+                  ]
                 },
                 {
-                  "corde": 5,
-                  "position": 3,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 3
+                    },
+                    {
+                      "cod": 5,
+                      "val": 5
+                    }
+                  ]
                 },
                 {
-                  "corde": 4,
-                  "position": 2,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 2
+                    },
+                    {
+                      "cod": 5,
+                      "val": 4
+                    }
+                  ]
                 }
               ]
             }
           ]
         },
         {
+          "properties": [
+            {
+              "cod": 1,
+              "val": "Dm"
+            }
+          ],
           "temps": [
             {
-              "chord": "Dm",
               "nbTemps": 1,
               "sons": [
                 {
-                  "corde": 3,
-                  "position": 3,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 3
+                    },
+                    {
+                      "cod": 5,
+                      "val": 3
+                    }
+                  ]
                 },
                 {
-                  "corde": 6,
-                  "position": 1,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 1
+                    },
+                    {
+                      "cod": 5,
+                      "val": 6
+                    }
+                  ]
                 },
                 {
-                  "corde": 5,
-                  "position": 1,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 1
+                    },
+                    {
+                      "cod": 5,
+                      "val": 5
+                    }
+                  ]
                 },
                 {
-                  "corde": 4,
-                  "position": 2,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 2
+                    },
+                    {
+                      "cod": 5,
+                      "val": 4
+                    }
+                  ]
                 }
               ]
             },
             {
-              "chord": "Dm",
               "nbTemps": 1,
               "sons": [
                 {
-                  "corde": 3,
-                  "position": 3,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 3
+                    },
+                    {
+                      "cod": 5,
+                      "val": 3
+                    }
+                  ]
                 },
                 {
-                  "corde": 6,
-                  "position": 1,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 1
+                    },
+                    {
+                      "cod": 5,
+                      "val": 6
+                    }
+                  ]
                 },
                 {
-                  "corde": 5,
-                  "position": 1,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 1
+                    },
+                    {
+                      "cod": 5,
+                      "val": 5
+                    }
+                  ]
                 },
                 {
-                  "corde": 4,
-                  "position": 2,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 2
+                    },
+                    {
+                      "cod": 5,
+                      "val": 4
+                    }
+                  ]
                 }
               ]
             },
             {
-              "chord": "Dm",
               "nbTemps": 1,
               "sons": [
                 {
-                  "corde": 3,
-                  "position": 5,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 5
+                    },
+                    {
+                      "cod": 5,
+                      "val": 3
+                    }
+                  ]
                 },
                 {
-                  "corde": 6,
-                  "position": 3,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 3
+                    },
+                    {
+                      "cod": 5,
+                      "val": 6
+                    }
+                  ]
                 },
                 {
-                  "corde": 5,
-                  "position": 3,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 3
+                    },
+                    {
+                      "cod": 5,
+                      "val": 5
+                    }
+                  ]
                 },
                 {
-                  "corde": 4,
-                  "position": 4,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 4
+                    },
+                    {
+                      "cod": 5,
+                      "val": 4
+                    }
+                  ]
                 }
               ]
             },
             {
-              "chord": "Dm",
               "nbTemps": 1,
               "sons": [
                 {
-                  "corde": 3,
-                  "position": 5,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 5
+                    },
+                    {
+                      "cod": 5,
+                      "val": 3
+                    }
+                  ]
                 },
                 {
-                  "corde": 6,
-                  "position": 3,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 3
+                    },
+                    {
+                      "cod": 5,
+                      "val": 6
+                    }
+                  ]
                 },
                 {
-                  "corde": 5,
-                  "position": 3,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 3
+                    },
+                    {
+                      "cod": 5,
+                      "val": 5
+                    }
+                  ]
                 },
                 {
-                  "corde": 4,
-                  "position": 4,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 4
+                    },
+                    {
+                      "cod": 5,
+                      "val": 4
+                    }
+                  ]
                 }
               ]
             }
           ]
         },
         {
+          "properties": [
+            {
+              "cod": 1,
+              "val": "C"
+            }
+          ],
           "temps": [
             {
-              "chord": "C",
               "nbTemps": 1,
               "sons": [
                 {
-                  "corde": 2,
-                  "position": 3,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 2
+                    },
+                    {
+                      "cod": 5,
+                      "val": 3
+                    }
+                  ]
                 },
                 {
-                  "corde": 6,
-                  "position": 0,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 0
+                    },
+                    {
+                      "cod": 5,
+                      "val": 6
+                    }
+                  ]
                 },
                 {
-                  "corde": 5,
-                  "position": 1,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 1
+                    },
+                    {
+                      "cod": 5,
+                      "val": 5
+                    }
+                  ]
                 },
                 {
-                  "corde": 4,
-                  "position": 0,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 0
+                    },
+                    {
+                      "cod": 5,
+                      "val": 4
+                    }
+                  ]
                 }
               ]
             },
             {
-              "chord": "C",
               "nbTemps": 1,
               "sons": [
                 {
-                  "corde": 3,
-                  "position": 2,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 2
+                    },
+                    {
+                      "cod": 5,
+                      "val": 3
+                    }
+                  ]
                 },
                 {
-                  "corde": 6,
-                  "position": 0,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 0
+                    },
+                    {
+                      "cod": 5,
+                      "val": 6
+                    }
+                  ]
                 },
                 {
-                  "corde": 5,
-                  "position": 1,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 1
+                    },
+                    {
+                      "cod": 5,
+                      "val": 5
+                    }
+                  ]
                 },
                 {
-                  "corde": 4,
-                  "position": 0,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 0
+                    },
+                    {
+                      "cod": 5,
+                      "val": 4
+                    }
+                  ]
                 }
               ]
             },
             {
-              "chord": "C/B",
               "nbTemps": 1,
+              "properties": [
+                {
+                  "cod": 1,
+                  "val": "C/B"
+                }
+              ],
               "sons": [
                 {
-                  "corde": 2,
-                  "position": 2,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 2
+                    },
+                    {
+                      "cod": 5,
+                      "val": 2
+                    }
+                  ]
                 },
                 {
-                  "corde": 6,
-                  "position": 0,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 0
+                    },
+                    {
+                      "cod": 5,
+                      "val": 6
+                    }
+                  ]
                 },
                 {
-                  "corde": 5,
-                  "position": 1,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 1
+                    },
+                    {
+                      "cod": 5,
+                      "val": 5
+                    }
+                  ]
                 },
                 {
-                  "corde": 4,
-                  "position": 0,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 0
+                    },
+                    {
+                      "cod": 5,
+                      "val": 4
+                    }
+                  ]
                 }
               ]
             },
             {
-              "chord": "C",
               "nbTemps": 1,
               "sons": [
                 {
-                  "corde": 3,
-                  "position": 0,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 0
+                    },
+                    {
+                      "cod": 5,
+                      "val": 3
+                    }
+                  ]
                 },
                 {
-                  "corde": 6,
-                  "position": 0,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 0
+                    },
+                    {
+                      "cod": 5,
+                      "val": 6
+                    }
+                  ]
                 },
                 {
-                  "corde": 5,
-                  "position": 1,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 1
+                    },
+                    {
+                      "cod": 5,
+                      "val": 5
+                    }
+                  ]
                 },
                 {
-                  "corde": 4,
-                  "position": 0,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 0
+                    },
+                    {
+                      "cod": 5,
+                      "val": 4
+                    }
+                  ]
                 }
               ]
             }
           ]
         },
         {
+          "properties": [
+            {
+              "cod": 1,
+              "val": "Am"
+            }
+          ],
           "temps": [
             {
-              "chord": "Am",
               "nbTemps": 1,
               "sons": [
                 {
-                  "corde": 2,
-                  "position": 0,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 0
+                    },
+                    {
+                      "cod": 5,
+                      "val": 2
+                    }
+                  ]
                 },
                 {
-                  "corde": 6,
-                  "position": 0,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 0
+                    },
+                    {
+                      "cod": 5,
+                      "val": 6
+                    }
+                  ]
                 },
                 {
-                  "corde": 5,
-                  "position": 1,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 1
+                    },
+                    {
+                      "cod": 5,
+                      "val": 5
+                    }
+                  ]
                 },
                 {
-                  "corde": 4,
-                  "position": 2,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 2
+                    },
+                    {
+                      "cod": 5,
+                      "val": 4
+                    }
+                  ]
                 }
               ]
             },
             {
-              "chord": "Am",
               "nbTemps": 1,
               "sons": [
                 {
-                  "corde": 3,
-                  "position": 2,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 2
+                    },
+                    {
+                      "cod": 5,
+                      "val": 3
+                    }
+                  ]
                 },
                 {
-                  "corde": 6,
-                  "position": 0,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 0
+                    },
+                    {
+                      "cod": 5,
+                      "val": 6
+                    }
+                  ]
                 },
                 {
-                  "corde": 5,
-                  "position": 1,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 1
+                    },
+                    {
+                      "cod": 5,
+                      "val": 5
+                    }
+                  ]
                 },
                 {
-                  "corde": 4,
-                  "position": 2,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 2
+                    },
+                    {
+                      "cod": 5,
+                      "val": 4
+                    }
+                  ]
                 }
               ]
             },
             {
-              "chord": "Am",
               "nbTemps": 1,
               "sons": [
                 {
-                  "corde": 2,
-                  "position": 0,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 0
+                    },
+                    {
+                      "cod": 5,
+                      "val": 2
+                    }
+                  ]
                 },
                 {
-                  "corde": 6,
-                  "position": 0,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 0
+                    },
+                    {
+                      "cod": 5,
+                      "val": 6
+                    }
+                  ]
                 },
                 {
-                  "corde": 5,
-                  "position": 1,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 1
+                    },
+                    {
+                      "cod": 5,
+                      "val": 5
+                    }
+                  ]
                 },
                 {
-                  "corde": 4,
-                  "position": 2,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 2
+                    },
+                    {
+                      "cod": 5,
+                      "val": 4
+                    }
+                  ]
                 }
               ]
             },
             {
-              "chord": "Am",
               "nbTemps": 1,
               "sons": [
                 {
-                  "corde": 3,
-                  "position": 2,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 2
+                    },
+                    {
+                      "cod": 5,
+                      "val": 3
+                    }
+                  ]
                 },
                 {
-                  "corde": 6,
-                  "position": 0,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 0
+                    },
+                    {
+                      "cod": 5,
+                      "val": 6
+                    }
+                  ]
                 },
                 {
-                  "corde": 5,
-                  "position": 1,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 1
+                    },
+                    {
+                      "cod": 5,
+                      "val": 5
+                    }
+                  ]
                 },
                 {
-                  "corde": 4,
-                  "position": 2,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 2
+                    },
+                    {
+                      "cod": 5,
+                      "val": 4
+                    }
+                  ]
                 }
               ]
             }
@@ -1027,111 +3851,435 @@
       ]
     },
     {
-      "id": 3,
+      "id": "69c0e030-f496-4865-bb17-569399091da5",
       "mesures": [
         {
           "temps": [
             {
-              "chord": "E",
               "nbTemps": 1,
+              "properties": [
+                {
+                  "cod": 1,
+                  "val": "E"
+                }
+              ],
               "sons": [
                 {
-                  "corde": 1,
-                  "position": 0,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 0
+                    },
+                    {
+                      "cod": 5,
+                      "val": 1
+                    }
+                  ]
                 },
                 {
-                  "corde": 6,
-                  "position": 0,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 0
+                    },
+                    {
+                      "cod": 5,
+                      "val": 6
+                    }
+                  ]
                 },
                 {
-                  "corde": 5,
-                  "position": 0,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 1
+                    },
+                    {
+                      "cod": 5,
+                      "val": 6
+                    }
+                  ]
                 },
                 {
-                  "corde": 4,
-                  "position": 1,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 1
+                    },
+                    {
+                      "cod": 5,
+                      "val": 4
+                    }
+                  ]
                 }
               ]
             },
             {
-              "chord": "E",
               "nbTemps": 1,
+              "properties": [
+                {
+                  "cod": 1,
+                  "val": "E"
+                }
+              ],
               "sons": [
                 {
-                  "corde": 2,
-                  "position": 2,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 2
+                    },
+                    {
+                      "cod": 5,
+                      "val": 2
+                    }
+                  ]
                 },
                 {
-                  "corde": 6,
-                  "position": 0,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 0
+                    },
+                    {
+                      "cod": 5,
+                      "val": 6
+                    }
+                  ]
                 },
                 {
-                  "corde": 5,
-                  "position": 0,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 0
+                    },
+                    {
+                      "cod": 5,
+                      "val": 5
+                    }
+                  ]
                 },
                 {
-                  "corde": 4,
-                  "position": 1,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 1
+                    },
+                    {
+                      "cod": 5,
+                      "val": 4
+                    }
+                  ]
                 }
               ]
             },
             {
-              "chord": "Am",
               "nbTemps": 1,
+              "properties": [
+                {
+                  "cod": 1,
+                  "val": "Am"
+                }
+              ],
               "sons": [
                 {
-                  "corde": 2,
-                  "position": 0,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 0
+                    },
+                    {
+                      "cod": 5,
+                      "val": 2
+                    }
+                  ]
                 },
                 {
-                  "corde": 6,
-                  "position": 0,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 0
+                    },
+                    {
+                      "cod": 5,
+                      "val": 6
+                    }
+                  ]
                 },
                 {
-                  "corde": 5,
-                  "position": 1,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 1
+                    },
+                    {
+                      "cod": 5,
+                      "val": 5
+                    }
+                  ]
                 },
                 {
-                  "corde": 4,
-                  "position": 2,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 2
+                    },
+                    {
+                      "cod": 5,
+                      "val": 4
+                    }
+                  ]
                 }
               ]
             },
             {
-              "chord": "Am",
               "nbTemps": 1,
+              "properties": [
+                {
+                  "cod": 1,
+                  "val": "Am"
+                }
+              ],
               "sons": [
                 {
-                  "corde": 3,
-                  "position": 2,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 2
+                    },
+                    {
+                      "cod": 5,
+                      "val": 3
+                    }
+                  ]
                 },
                 {
-                  "corde": 6,
-                  "position": 0,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 0
+                    },
+                    {
+                      "cod": 5,
+                      "val": 6
+                    }
+                  ]
                 },
                 {
-                  "corde": 5,
-                  "position": 1,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 1
+                    },
+                    {
+                      "cod": 5,
+                      "val": 5
+                    }
+                  ]
                 },
                 {
-                  "corde": 4,
-                  "position": 2,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 2
+                    },
+                    {
+                      "cod": 5,
+                      "val": 4
+                    }
+                  ]
                 }
               ]
             }
@@ -1140,106 +4288,430 @@
         {
           "temps": [
             {
-              "chord": "G",
               "nbTemps": 1,
+              "properties": [
+                {
+                  "cod": 1,
+                  "val": "G"
+                }
+              ],
               "sons": [
                 {
-                  "corde": 1,
-                  "position": 3,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 1
+                    },
+                    {
+                      "cod": 5,
+                      "val": 3
+                    }
+                  ]
                 },
                 {
-                  "corde": 6,
-                  "position": 3,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 3
+                    },
+                    {
+                      "cod": 5,
+                      "val": 6
+                    }
+                  ]
                 },
                 {
-                  "corde": 5,
-                  "position": 0,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 0
+                    },
+                    {
+                      "cod": 5,
+                      "val": 5
+                    }
+                  ]
                 },
                 {
-                  "corde": 4,
-                  "position": 0,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 0
+                    },
+                    {
+                      "cod": 5,
+                      "val": 4
+                    }
+                  ]
                 }
               ]
             },
             {
-              "chord": "G",
               "nbTemps": 1,
+              "properties": [
+                {
+                  "cod": 1,
+                  "val": "G"
+                }
+              ],
               "sons": [
                 {
-                  "corde": 2,
-                  "position": 2,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 2
+                    },
+                    {
+                      "cod": 5,
+                      "val": 2
+                    }
+                  ]
                 },
                 {
-                  "corde": 6,
-                  "position": 3,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 3
+                    },
+                    {
+                      "cod": 5,
+                      "val": 6
+                    }
+                  ]
                 },
                 {
-                  "corde": 5,
-                  "position": 0,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 0
+                    },
+                    {
+                      "cod": 5,
+                      "val": 5
+                    }
+                  ]
                 },
                 {
-                  "corde": 4,
-                  "position": 0,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 0
+                    },
+                    {
+                      "cod": 5,
+                      "val": 4
+                    }
+                  ]
                 }
               ]
             },
             {
-              "chord": "C",
               "nbTemps": 1,
+              "properties": [
+                {
+                  "cod": 1,
+                  "val": "C"
+                }
+              ],
               "sons": [
                 {
-                  "corde": 2,
-                  "position": 3,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 3
+                    },
+                    {
+                      "cod": 5,
+                      "val": 2
+                    }
+                  ]
                 },
                 {
-                  "corde": 6,
-                  "position": 0,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 0
+                    },
+                    {
+                      "cod": 5,
+                      "val": 6
+                    }
+                  ]
                 },
                 {
-                  "corde": 5,
-                  "position": 1,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 1
+                    },
+                    {
+                      "cod": 5,
+                      "val": 5
+                    }
+                  ]
                 },
                 {
-                  "corde": 4,
-                  "position": 0,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 0
+                    },
+                    {
+                      "cod": 5,
+                      "val": 4
+                    }
+                  ]
                 }
               ]
             },
             {
-              "chord": "C",
               "nbTemps": 1,
+              "properties": [
+                {
+                  "cod": 1,
+                  "val": "C"
+                }
+              ],
               "sons": [
                 {
-                  "corde": 3,
-                  "position": 2,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 2
+                    },
+                    {
+                      "cod": 5,
+                      "val": 3
+                    }
+                  ]
                 },
                 {
-                  "corde": 6,
-                  "position": 0,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 0
+                    },
+                    {
+                      "cod": 5,
+                      "val": 6
+                    }
+                  ]
                 },
                 {
-                  "corde": 5,
-                  "position": 1,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 1
+                    },
+                    {
+                      "cod": 5,
+                      "val": 5
+                    }
+                  ]
                 },
                 {
-                  "corde": 4,
-                  "position": 0,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 0
+                    },
+                    {
+                      "cod": 5,
+                      "val": 4
+                    }
+                  ]
                 }
               ]
             }
@@ -1248,167 +4720,646 @@
         {
           "temps": [
             {
-              "chord": "E",
               "nbTemps": 1,
+              "properties": [
+                {
+                  "cod": 1,
+                  "val": "E"
+                }
+              ],
               "sons": [
                 {
-                  "corde": 1,
-                  "position": 0,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 0
+                    },
+                    {
+                      "cod": 5,
+                      "val": 1
+                    }
+                  ]
                 },
                 {
-                  "corde": 6,
-                  "position": 0,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 0
+                    },
+                    {
+                      "cod": 5,
+                      "val": 6
+                    }
+                  ]
                 },
                 {
-                  "corde": 5,
-                  "position": 0,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 0
+                    },
+                    {
+                      "cod": 5,
+                      "val": 5
+                    }
+                  ]
                 },
                 {
-                  "corde": 4,
-                  "position": 1,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 1
+                    },
+                    {
+                      "cod": 5,
+                      "val": 4
+                    }
+                  ]
                 }
               ]
             },
             {
-              "chord": "E",
               "nbTemps": 1,
+              "properties": [
+                {
+                  "cod": 1,
+                  "val": "E"
+                }
+              ],
               "sons": [
                 {
-                  "corde": 2,
-                  "position": 2,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 2
+                    },
+                    {
+                      "cod": 5,
+                      "val": 2
+                    }
+                  ]
                 },
                 {
-                  "corde": 6,
-                  "position": 0,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 0
+                    },
+                    {
+                      "cod": 5,
+                      "val": 6
+                    }
+                  ]
                 },
                 {
-                  "corde": 5,
-                  "position": 0,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 0
+                    },
+                    {
+                      "cod": 5,
+                      "val": 5
+                    }
+                  ]
                 },
                 {
-                  "corde": 4,
-                  "position": 1,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 1
+                    },
+                    {
+                      "cod": 5,
+                      "val": 4
+                    }
+                  ]
                 }
               ]
             },
             {
-              "chord": "Am",
               "nbTemps": 1,
+              "properties": [
+                {
+                  "cod": 1,
+                  "val": "Am"
+                }
+              ],
               "sons": [
                 {
-                  "corde": 2,
-                  "position": 0,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 0
+                    },
+                    {
+                      "cod": 5,
+                      "val": 2
+                    }
+                  ]
                 },
                 {
-                  "corde": 6,
-                  "position": 0,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 0
+                    },
+                    {
+                      "cod": 5,
+                      "val": 6
+                    }
+                  ]
                 },
                 {
-                  "corde": 5,
-                  "position": 1,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 1
+                    },
+                    {
+                      "cod": 5,
+                      "val": 5
+                    }
+                  ]
                 },
                 {
-                  "corde": 4,
-                  "position": 2,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 2
+                    },
+                    {
+                      "cod": 5,
+                      "val": 4
+                    }
+                  ]
                 }
               ]
             },
             {
-              "chord": "Am",
               "nbTemps": 1,
+              "properties": [
+                {
+                  "cod": 1,
+                  "val": "Am"
+                }
+              ],
               "sons": [
                 {
-                  "corde": 3,
-                  "position": 2,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 2
+                    },
+                    {
+                      "cod": 5,
+                      "val": 3
+                    }
+                  ]
                 },
                 {
-                  "corde": 6,
-                  "position": 0,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 0
+                    },
+                    {
+                      "cod": 5,
+                      "val": 6
+                    }
+                  ]
                 },
                 {
-                  "corde": 5,
-                  "position": 1,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 1
+                    },
+                    {
+                      "cod": 5,
+                      "val": 5
+                    }
+                  ]
                 },
                 {
-                  "corde": 4,
-                  "position": 2,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 2
+                    },
+                    {
+                      "cod": 5,
+                      "val": 4
+                    }
+                  ]
                 }
               ]
             }
           ]
         },
         {
+          "properties": [
+            {
+              "cod": 1,
+              "val": "Bb sus2"
+            }
+          ],
           "temps": [
             {
-              "chord": "Bb sus2",
               "nbTemps": 1,
               "sons": [
                 {
-                  "corde": 2,
-                  "position": 1,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 1
+                    },
+                    {
+                      "cod": 5,
+                      "val": 2
+                    }
+                  ]
                 },
                 {
-                  "corde": 6,
-                  "position": 1,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 1
+                    },
+                    {
+                      "cod": 5,
+                      "val": 6
+                    }
+                  ]
                 },
                 {
-                  "corde": 5,
-                  "position": 1,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 1
+                    },
+                    {
+                      "cod": 5,
+                      "val": 5
+                    }
+                  ]
                 },
                 {
-                  "corde": 4,
-                  "position": 3,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 3
+                    },
+                    {
+                      "cod": 5,
+                      "val": 4
+                    }
+                  ]
                 }
               ]
             },
             {
-              "chord": "Bb sus2",
               "nbTemps": 1,
               "sons": [
                 {
-                  "corde": 3,
-                  "position": 3,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 3
+                    },
+                    {
+                      "cod": 5,
+                      "val": 3
+                    }
+                  ]
                 },
                 {
-                  "corde": 6,
-                  "position": 1,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 1
+                    },
+                    {
+                      "cod": 5,
+                      "val": 6
+                    }
+                  ]
                 },
                 {
-                  "corde": 5,
-                  "position": 1,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 1
+                    },
+                    {
+                      "cod": 5,
+                      "val": 5
+                    }
+                  ]
                 },
                 {
-                  "corde": 4,
-                  "position": 3,
-                  "type": 1,"dur": 6
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 3
+                    },
+                    {
+                      "cod": 5,
+                      "val": 4
+                    }
+                  ]
                 }
               ]
             },
             {
-              "chord": "Bb sus2",
               "nbTemps": 2,
               "sons": [
                 {
@@ -1425,56 +5376,54 @@
       ]
     }
   ],
-  "languages": [
+  "lngrsrcs": [
     {
-      "lang": "fr",
-      "comment": "commentaire général au sujet du la chanson",
-      "content": [
+      "lng": "fr",
+      "cmt": "Magnifique chanson et très bon tuto de GalagoMusic",
+      "cnt": [
         {
           "type": 1,
           "field": 1,
-          "id": 1,
+          "id": "59e4f4d7-247d-45ff-b62d-2e7e5397251a",
           "content": "Intro"
         },
         {
           "type": 1,
           "field": 1,
-          "id": 2,
+          "id": "21c929c4-600e-48ec-8717-678c1824eec7",
           "content": "Couplet"
         },
         {
           "type": 1,
           "field": 1,
-          "id": 3,
+          "id": "69c0e030-f496-4865-bb17-569399091da5",
           "content": "Refrain"
         }
-      ],
-      "tags": [ "acoustique", "arpèges" ]
+      ]
     },
     {
-      "lang": "en",
-      "comment": "",
-      "content": [
+      "lng": "en",
+      "cmt": "",
+      "cnt": [
         {
           "type": 1,
           "field": 1,
-          "id": 1,
+          "id": "59e4f4d7-247d-45ff-b62d-2e7e5397251a",
           "content": "Intro"
         },
         {
           "type": 1,
           "field": 1,
-          "id": 2,
+          "id": "21c929c4-600e-48ec-8717-678c1824eec7",
           "content": "part couplet"
         },
         {
           "type": 1,
           "field": 1,
-          "id": 3,
+          "id": "69c0e030-f496-4865-bb17-569399091da5",
           "content": "part refrain"
         }
-      ],
-      "tags": [ "acoustic" ]
+      ]
     }
   ]
 }
