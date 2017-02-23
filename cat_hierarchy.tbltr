@@ -1,0 +1,36 @@
+﻿{
+  "hrrch": [
+    {
+      "id": "4BBD4A60-5EDF-40B2-BF91-7687E3A94755",
+      "name": "Francis Cabrel",
+      "desc": "",
+      "pic": "",
+      "pid": "8FEAEAD1-424F-414E-B711-FDA7F4718998",
+      "posi": 1
+    },
+    {
+      "id": "AD7D75E3-A977-47D6-9014-D4111A8510D1",
+      "name": "Matthieu Chedid",
+      "desc": "",
+      "pic": "",
+      "pid": "8FEAEAD1-424F-414E-B711-FDA7F4718998",
+      "posi": 2
+    },
+    {
+      "id": "8FEAEAD1-424F-414E-B711-FDA7F4718998",
+      "name": "Chanson française",
+      "desc": "",
+      "pic": "",
+      "pid": null, /*null for root*/
+      "posi": 1
+    },
+    {
+      "id": "5CC91AAA-7207-4940-80FB-F173FC09DE39",
+      "name": "Le tour de M",
+      "desc": "",
+      "pic": "",
+      "pid": "AD7D75E3-A977-47D6-9014-D4111A8510D1",
+      "posi": 1
+    }
+  ]
+}
