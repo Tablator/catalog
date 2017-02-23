@@ -1,6 +1,22 @@
 {
-  "song": "Aliens Exist",
-  "artist": "Blink 182",
+  "pprts": [
+    {
+      "cod": 1,
+      "val": "Aliens Exist"
+    },
+    {
+      "cod": 2,
+      "val": "Blink 182"
+    },
+    {
+      "cod": 3,
+      "val": 216
+    },
+    {
+      "cod": 4,
+      "val": 44
+    }
+  ],
   "src": {
     "type": 0,
     "support": 0,
@@ -16,8 +32,6 @@
       "rev": 1
     }
   ],
-  "tempo": 216,
-  "mesure": 44,
   "instrument": 1,
   "instrument_type": 2,
   "instrument_settings": [
@@ -500,17 +514,16 @@
   ],
   "lngrsrcs": [
     {
-      "lang": "fr",
-      "comment": "commentaire général au sujet du la chanson",
-      "content": [
+      "lng": "fr",
+      "cmt": "commentaire général au sujet du la chanson",
+      "cnt": [
         {
           "type": 1,
           "field": 1,
           "id": "2e06e0cc-3d59-49f9-8f30-46b9779a3148",
           "content": "Intro"
         }
-      ],
-      "tags": null
+      ]
     }
   ]
 }

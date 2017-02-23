@@ -1,6 +1,22 @@
 {
-  "song": "Je l'aime à mourir",
-  "artist": "Francis Cabrel",
+  "pprts": [
+    {
+      "cod": 1,
+      "val": "Je l'aime à mourir"
+    },
+    {
+      "cod": 2,
+      "val": "Francis Cabrel"
+    },
+    {
+      "cod": 3,
+      "val": 80
+    },
+    {
+      "cod": 4,
+      "val":44
+    }
+  ],
   "src": {
     "type": 1,
     "support": 1,
@@ -16,8 +32,6 @@
       "rev": 1
     }
   ],
-  "tempo": 80,
-  "mesure": 44,
   "instrument": 1,
   "instrument_type": 3,
   "instrument_settings": [
@@ -5364,9 +5378,9 @@
   ],
   "lngrsrcs": [
     {
-      "lang": "fr",
-      "comment": "Magnifique chanson et très bon tuto de GalagoMusic",
-      "content": [
+      "lng": "fr",
+      "cmt": "Magnifique chanson et très bon tuto de GalagoMusic",
+      "cnt": [
         {
           "type": 1,
           "field": 1,
@@ -5388,9 +5402,9 @@
       ]
     },
     {
-      "lang": "en",
-      "comment": "",
-      "content": [
+      "lng": "en",
+      "cmt": "",
+      "cnt": [
         {
           "type": 1,
           "field": 1,
