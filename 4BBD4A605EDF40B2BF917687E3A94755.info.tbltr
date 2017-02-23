@@ -1,0 +1,35 @@
+{
+  "pprts": [
+    {
+      "cod": 1,
+      "val": "Je l'aime à mourir"
+    },
+    {
+      "cod": 2,
+      "val": "Francis Cabrel"
+    },
+    {
+      "cod": 3,
+      "val": 80
+    },
+    {
+      "cod": 4,
+      "val":44
+    }
+  ],
+  "src": {
+    "type": 1,
+    "support": 1,
+    "val": "kJnnyxlzbWQ",
+    "name": "Tutoriel de MrGalagomusic",
+    "desc": ""
+  },
+  "sftvrsns": [
+    {
+      "dt": "2017-02-22T07:22Z",
+      "mjr": 0,
+      "mnr": 0,
+      "rev": 16
+    }
+  ]
+}

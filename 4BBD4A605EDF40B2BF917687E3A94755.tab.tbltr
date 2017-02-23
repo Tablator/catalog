@@ -1,38 +1,4 @@
-{
-  "pprts": [
-    {
-      "cod": 1,
-      "val": "Je l'aime à mourir"
-    },
-    {
-      "cod": 2,
-      "val": "Francis Cabrel"
-    },
-    {
-      "cod": 3,
-      "val": 80
-    },
-    {
-      "cod": 4,
-      "val":44
-    }
-  ],
-  "src": {
-    "type": 1,
-    "support": 1,
-    "val": "kJnnyxlzbWQ",
-    "name": "Tutoriel de MrGalagomusic",
-    "desc": ""
-  },
-  "sftvrsns": [
-    {
-      "dt": "2017-02-22T07:22Z",
-      "mjr": 0,
-      "mnr": 0,
-      "rev": 16
-    }
-  ],
-  "instrument": 1,
+{"instrument": 1,
   "instrument_type": 3,
   "instrument_settings": [
     {
@@ -5372,56 +5338,6 @@
               ]
             }
           ]
-        }
-      ]
-    }
-  ],
-  "lngrsrcs": [
-    {
-      "lng": "fr",
-      "cmt": "Magnifique chanson et très bon tuto de GalagoMusic",
-      "cnt": [
-        {
-          "type": 1,
-          "field": 1,
-          "id": "59e4f4d7-247d-45ff-b62d-2e7e5397251a",
-          "content": "Intro"
-        },
-        {
-          "type": 1,
-          "field": 1,
-          "id": "21c929c4-600e-48ec-8717-678c1824eec7",
-          "content": "Couplet"
-        },
-        {
-          "type": 1,
-          "field": 1,
-          "id": "69c0e030-f496-4865-bb17-569399091da5",
-          "content": "Refrain"
-        }
-      ]
-    },
-    {
-      "lng": "en",
-      "cmt": "",
-      "cnt": [
-        {
-          "type": 1,
-          "field": 1,
-          "id": "59e4f4d7-247d-45ff-b62d-2e7e5397251a",
-          "content": "Intro"
-        },
-        {
-          "type": 1,
-          "field": 1,
-          "id": "21c929c4-600e-48ec-8717-678c1824eec7",
-          "content": "part couplet"
-        },
-        {
-          "type": 1,
-          "field": 1,
-          "id": "69c0e030-f496-4865-bb17-569399091da5",
-          "content": "part refrain"
         }
       ]
     }
