@@ -8,17 +8,18 @@
     "name": "",
     "desc": ""
   },
-  "software": {
-    "version": {
-      "major": 1,
-      "minor": 0,
-      "revision": 0
+  "sftvrsns": [
+    {
+      "dt": "2017-02-22T07:22Z",
+      "mjr": 0,
+      "mnr": 1,
+      "rev": 1
     }
-  },
+  ],
   "tempo": 216,
   "mesure": 44,
-  "instrument": "guitare",
-  "instrument_type": "guitare éléctrique",
+  "instrument": 1,
+  "instrument_type": 2,
   "instrument_settings": [
     {
       "cod": 1,
@@ -39,19 +40,15 @@
       "val": "high"
     }
   ],
-  "enchainement": [
+  "strctr": [
     {
-      "id": 1,
-      "repeat": 1
-    },
-    {
-      "id": 2,
-      "repeat": 3
+      "id": "2e06e0cc-3d59-49f9-8f30-46b9779a3148",
+      "rpt": 1
     }
   ],
-  "parties": [
+  "prts": [
     {
-      "id": 1,
+      "id": "2e06e0cc-3d59-49f9-8f30-46b9779a3148",
       "mesures": [
         {
           "temps": [
@@ -501,7 +498,7 @@
       ]
     }
   ],
-  "languages": [
+  "lngrsrcs": [
     {
       "lang": "fr",
       "comment": "commentaire général au sujet du la chanson",
@@ -509,7 +506,7 @@
         {
           "type": 1,
           "field": 1,
-          "id": 1,
+          "id": "2e06e0cc-3d59-49f9-8f30-46b9779a3148",
           "content": "Intro"
         }
       ],

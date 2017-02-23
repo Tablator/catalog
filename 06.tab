@@ -8,17 +8,18 @@
     "name": "Tutoriel de MrGalagomusic",
     "desc": ""
   },
-  "software": {
-    "version": {
-      "major": 1,
-      "minor": 0,
-      "revision": 0
+  "sftvrsns": [
+    {
+      "dt": "2017-02-22T07:22Z",
+      "mjr": 0,
+      "mnr": 1,
+      "rev": 1
     }
-  },
+  ],
   "tempo": 80,
   "mesure": 44,
   "instrument": 1,
-  "instrument_type": "guitare folk",
+  "instrument_type": 3,
   "instrument_settings": [
     {
       "cod": 1,
@@ -34,19 +35,31 @@
     }
   ],
   "instrument_effects": null,
-  "enchainement": [
+  "strctr": [
     {
-      "id": 1,
-      "repeat": 1
+      "id": "59e4f4d7-247d-45ff-b62d-2e7e5397251a",
+      "rpt": 1
     },
     {
-      "id": 2,
-      "repeat": 3
+      "id": "21c929c4-600e-48ec-8717-678c1824eec7",
+      "rpt": 3
+    },
+    {
+      "id": "69c0e030-f496-4865-bb17-569399091da5",
+      "rpt": 2
+    },
+    {
+      "id": "21c929c4-600e-48ec-8717-678c1824eec7",
+      "rpt": 2
+    },
+    {
+      "id": "69c0e030-f496-4865-bb17-569399091da5",
+      "rpt": 2
     }
   ],
-  "parties": [
+  "prts": [
     {
-      "id": 1,
+      "id": "59e4f4d7-247d-45ff-b62d-2e7e5397251a",
       "mesures": [
         {
           "temps": [
@@ -158,8 +171,13 @@
               ]
             },
             {
-              "chord": "C",
               "nbTemps": 1,
+              "properties": [
+                {
+                  "cod": 1,
+                  "val": "C"
+                }
+              ],
               "sons": [
                 {
                   "properties": [
@@ -260,8 +278,13 @@
               ]
             },
             {
-              "chord": "Em7",
               "nbTemps": 1,
+              "properties": [
+                {
+                  "cod": 1,
+                  "val": "Em7"
+                }
+              ],
               "sons": [
                 {
                   "properties": [
@@ -362,8 +385,13 @@
               ]
             },
             {
-              "chord": "Em7",
               "nbTemps": 1,
+              "properties": [
+                {
+                  "cod": 1,
+                  "val": "Em7"
+                }
+              ],
               "sons": [
                 {
                   "properties": [
@@ -468,8 +496,13 @@
         {
           "temps": [
             {
-              "chord": "C",
               "nbTemps": 1,
+              "properties": [
+                {
+                  "cod": 1,
+                  "val": "C"
+                }
+              ],
               "sons": [
                 {
                   "properties": [
@@ -570,8 +603,13 @@
               ]
             },
             {
-              "chord": "C",
               "nbTemps": 1,
+              "properties": [
+                {
+                  "cod": 1,
+                  "val": "C"
+                }
+              ],
               "sons": [
                 {
                   "properties": [
@@ -672,8 +710,13 @@
               ]
             },
             {
-              "chord": "Em7",
               "nbTemps": 1,
+              "properties": [
+                {
+                  "cod": 1,
+                  "val": "Em7"
+                }
+              ],
               "sons": [
                 {
                   "properties": [
@@ -774,8 +817,13 @@
               ]
             },
             {
-              "chord": "Em7",
               "nbTemps": 1,
+              "properties": [
+                {
+                  "cod": 1,
+                  "val": "Em7"
+                }
+              ],
               "sons": [
                 {
                   "properties": [
@@ -880,12 +928,17 @@
       ]
     },
     {
-      "id": 2,
+      "id": "21c929c4-600e-48ec-8717-678c1824eec7",
       "mesures": [
         {
+          "properties": [
+            {
+              "cod": 1,
+              "val": "C"
+            }
+          ],
           "temps": [
             {
-              "chord": "C",
               "nbTemps": 1,
               "sons": [
                 {
@@ -987,7 +1040,6 @@
               ]
             },
             {
-              "chord": "C",
               "nbTemps": 1,
               "sons": [
                 {
@@ -1089,7 +1141,6 @@
               ]
             },
             {
-              "chord": "C",
               "nbTemps": 1,
               "sons": [
                 {
@@ -1191,7 +1242,6 @@
               ]
             },
             {
-              "chord": "C",
               "nbTemps": 1,
               "sons": [
                 {
@@ -1295,9 +1345,14 @@
           ]
         },
         {
+          "properties": [
+            {
+              "cod": 1,
+              "val": "Em7"
+            }
+          ],
           "temps": [
             {
-              "chord": "Em7",
               "nbTemps": 1,
               "sons": [
                 {
@@ -1399,7 +1454,6 @@
               ]
             },
             {
-              "chord": "Em7",
               "nbTemps": 1,
               "sons": [
                 {
@@ -1501,7 +1555,6 @@
               ]
             },
             {
-              "chord": "Em7",
               "nbTemps": 1,
               "sons": [
                 {
@@ -1603,7 +1656,6 @@
               ]
             },
             {
-              "chord": "Em7",
               "nbTemps": 1,
               "sons": [
                 {
@@ -1707,9 +1759,14 @@
           ]
         },
         {
+          "properties": [
+            {
+              "cod": 1,
+              "val": "Am"
+            }
+          ],
           "temps": [
             {
-              "chord": "Am",
               "nbTemps": 1,
               "sons": [
                 {
@@ -1811,7 +1868,6 @@
               ]
             },
             {
-              "chord": "Am",
               "nbTemps": 1,
               "sons": [
                 {
@@ -1913,7 +1969,6 @@
               ]
             },
             {
-              "chord": "Am",
               "nbTemps": 1,
               "sons": [
                 {
@@ -2015,7 +2070,6 @@
               ]
             },
             {
-              "chord": "Am",
               "nbTemps": 1,
               "sons": [
                 {
@@ -2119,9 +2173,14 @@
           ]
         },
         {
+          "properties": [
+            {
+              "cod": 1,
+              "val": "Dm"
+            }
+          ],
           "temps": [
             {
-              "chord": "Dm",
               "nbTemps": 1,
               "sons": [
                 {
@@ -2223,7 +2282,6 @@
               ]
             },
             {
-              "chord": "Dm",
               "nbTemps": 1,
               "sons": [
                 {
@@ -2325,7 +2383,6 @@
               ]
             },
             {
-              "chord": "Dm",
               "nbTemps": 1,
               "sons": [
                 {
@@ -2427,7 +2484,6 @@
               ]
             },
             {
-              "chord": "Dm",
               "nbTemps": 1,
               "sons": [
                 {
@@ -2531,111 +2587,14 @@
           ]
         },
         {
+          "properties": [
+            {
+              "cod": 1,
+              "val": "Dm"
+            }
+          ],
           "temps": [
             {
-              "chord": "Dm",
-              "nbTemps": 1,
-              "sons": [
-                {
-                 "properties": [
-                  {
-                    "cod": 1,
-                    "val": 1
-                  },
-                    {
-                      "cod": 2,
-                      "val": 6
-                    },
-                    {
-                      "cod": 3,
-                      "val": false
-                    },
-                    {
-                      "cod": 4,
-                      "val": 3
-                    },
-                    {
-                      "cod": 5,
-                      "val": 3
-                    }
-                  ]
-                },
-                {
-                  "properties": [
-                    {
-                      "cod": 1,
-                      "val": 1
-                    },
-                    {
-                      "cod": 2,
-                      "val": 6
-                    },
-                    {
-                      "cod": 3,
-                      "val": false
-                    },
-                    {
-                      "cod": 4,
-                      "val": 1
-                    },
-                    {
-                      "cod": 5,
-                      "val": 6
-                    }
-                  ]
-                },
-                {
-                 "properties": [
-                  {
-                    "cod": 1,
-                    "val": 1
-                  },
-                    {
-                      "cod": 2,
-                      "val": 6
-                    },
-                    {
-                      "cod": 3,
-                      "val": false
-                    },
-                    {
-                      "cod": 4,
-                      "val": 1
-                    },
-                    {
-                      "cod": 5,
-                      "val": 5
-                    }
-                  ]
-                },
-                {
-                 "properties": [
-                  {
-                    "cod": 1,
-                    "val": 1
-                  },
-                    {
-                      "cod": 2,
-                      "val": 6
-                    },
-                    {
-                      "cod": 3,
-                      "val": false
-                    },
-                    {
-                      "cod": 4,
-                      "val": 2
-                    },
-                    {
-                      "cod": 5,
-                      "val": 4
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "chord": "Dm",
               "nbTemps": 1,
               "sons": [
                 {
@@ -2737,7 +2696,107 @@
               ]
             },
             {
-              "chord": "Dm",
+              "nbTemps": 1,
+              "sons": [
+                {
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 3
+                    },
+                    {
+                      "cod": 5,
+                      "val": 3
+                    }
+                  ]
+                },
+                {
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 1
+                    },
+                    {
+                      "cod": 5,
+                      "val": 6
+                    }
+                  ]
+                },
+                {
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 1
+                    },
+                    {
+                      "cod": 5,
+                      "val": 5
+                    }
+                  ]
+                },
+                {
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 2
+                    },
+                    {
+                      "cod": 5,
+                      "val": 4
+                    }
+                  ]
+                }
+              ]
+            },
+            {
               "nbTemps": 1,
               "sons": [
                 {
@@ -2813,11 +2872,11 @@
                   ]
                 },
                 {
-                 "properties": [
-                  {
-                    "cod": 1,
-                    "val": 1
-                  },
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
                     {
                       "cod": 2,
                       "val": 6
@@ -2839,11 +2898,10 @@
               ]
             },
             {
-              "chord": "Dm",
               "nbTemps": 1,
               "sons": [
                 {
-                   "properties": [
+                  "properties": [
                     {
                       "cod": 1,
                       "val": 1
@@ -2915,7 +2973,7 @@
                   ]
                 },
                 {
-                   "properties": [
+                  "properties": [
                     {
                       "cod": 1,
                       "val": 1
@@ -2943,9 +3001,14 @@
           ]
         },
         {
+          "properties": [
+            {
+              "cod": 1,
+              "val": "C"
+            }
+          ],
           "temps": [
             {
-              "chord": "C",
               "nbTemps": 1,
               "sons": [
                 {
@@ -2997,7 +3060,7 @@
                   ]
                 },
                 {
-                   "properties": [
+                  "properties": [
                     {
                       "cod": 1,
                       "val": 1
@@ -3021,7 +3084,7 @@
                   ]
                 },
                 {
-                   "properties": [
+                  "properties": [
                     {
                       "cod": 1,
                       "val": 1
@@ -3047,109 +3110,6 @@
               ]
             },
             {
-              "chord": "C",
-              "nbTemps": 1,
-              "sons": [
-                {
-                   "properties": [
-                    {
-                      "cod": 1,
-                      "val": 1
-                    },
-                    {
-                      "cod": 2,
-                      "val": 6
-                    },
-                    {
-                      "cod": 3,
-                      "val": false
-                    },
-                    {
-                      "cod": 4,
-                      "val": 2
-                    },
-                    {
-                      "cod": 5,
-                      "val": 3
-                    }
-                  ]
-                },
-                {
-                   "properties": [
-                    {
-                      "cod": 1,
-                      "val": 1
-                    },
-                    {
-                      "cod": 2,
-                      "val": 6
-                    },
-                    {
-                      "cod": 3,
-                      "val": false
-                    },
-                    {
-                      "cod": 4,
-                      "val": 0
-                    },
-                    {
-                      "cod": 5,
-                      "val": 6
-                    }
-                  ]
-                },
-                {
-                  "properties": [
-                    {
-                      "cod": 1,
-                      "val": 1
-                    },
-                    {
-                      "cod": 2,
-                      "val": 6
-                    },
-                    {
-                      "cod": 3,
-                      "val": false
-                    },
-                    {
-                      "cod": 4,
-                      "val": 1
-                    },
-                    {
-                      "cod": 5,
-                      "val": 5
-                    }
-                  ]
-                },
-                {
-                   "properties": [
-                    {
-                      "cod": 1,
-                      "val": 1
-                    },
-                    {
-                      "cod": 2,
-                      "val": 6
-                    },
-                    {
-                      "cod": 3,
-                      "val": false
-                    },
-                    {
-                      "cod": 4,
-                      "val": 0
-                    },
-                    {
-                      "cod": 5,
-                      "val": 4
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "chord": "C/B",
               "nbTemps": 1,
               "sons": [
                 {
@@ -3169,108 +3129,6 @@
                     {
                       "cod": 4,
                       "val": 2
-                    },
-                    {
-                      "cod": 5,
-                      "val": 2
-                    }
-                  ]
-                },
-                {
-                   "properties": [
-                    {
-                      "cod": 1,
-                      "val": 1
-                    },
-                    {
-                      "cod": 2,
-                      "val": 6
-                    },
-                    {
-                      "cod": 3,
-                      "val": false
-                    },
-                    {
-                      "cod": 4,
-                      "val": 0
-                    },
-                    {
-                      "cod": 5,
-                      "val": 6
-                    }
-                  ]
-                },
-                {
-                   "properties": [
-                    {
-                      "cod": 1,
-                      "val": 1
-                    },
-                    {
-                      "cod": 2,
-                      "val": 6
-                    },
-                    {
-                      "cod": 3,
-                      "val": false
-                    },
-                    {
-                      "cod": 4,
-                      "val": 1
-                    },
-                    {
-                      "cod": 5,
-                      "val": 5
-                    }
-                  ]
-                },
-                {
-                   "properties": [
-                    {
-                      "cod": 1,
-                      "val": 1
-                    },
-                    {
-                      "cod": 2,
-                      "val": 6
-                    },
-                    {
-                      "cod": 3,
-                      "val": false
-                    },
-                    {
-                      "cod": 4,
-                      "val": 0
-                    },
-                    {
-                      "cod": 5,
-                      "val": 4
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "chord": "C",
-              "nbTemps": 1,
-              "sons": [
-                {
-                  "properties": [
-                    {
-                      "cod": 1,
-                      "val": 1
-                    },
-                    {
-                      "cod": 2,
-                      "val": 6
-                    },
-                    {
-                      "cod": 3,
-                      "val": false
-                    },
-                    {
-                      "cod": 4,
-                      "val": 0
                     },
                     {
                       "cod": 5,
@@ -3303,11 +3161,219 @@
                   ]
                 },
                 {
-                 "properties": [
-                  {
-                    "cod": 1,
-                    "val": 1
-                  },
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 1
+                    },
+                    {
+                      "cod": 5,
+                      "val": 5
+                    }
+                  ]
+                },
+                {
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 0
+                    },
+                    {
+                      "cod": 5,
+                      "val": 4
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "nbTemps": 1,
+              "properties": [
+                {
+                  "cod": 1,
+                  "val": "C/B"
+                }
+              ],
+              "sons": [
+                {
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 2
+                    },
+                    {
+                      "cod": 5,
+                      "val": 2
+                    }
+                  ]
+                },
+                {
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 0
+                    },
+                    {
+                      "cod": 5,
+                      "val": 6
+                    }
+                  ]
+                },
+                {
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 1
+                    },
+                    {
+                      "cod": 5,
+                      "val": 5
+                    }
+                  ]
+                },
+                {
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 0
+                    },
+                    {
+                      "cod": 5,
+                      "val": 4
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "nbTemps": 1,
+              "sons": [
+                {
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 0
+                    },
+                    {
+                      "cod": 5,
+                      "val": 3
+                    }
+                  ]
+                },
+                {
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 0
+                    },
+                    {
+                      "cod": 5,
+                      "val": 6
+                    }
+                  ]
+                },
+                {
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
                     {
                       "cod": 2,
                       "val": 6
@@ -3355,13 +3421,18 @@
           ]
         },
         {
+          "properties": [
+            {
+              "cod": 1,
+              "val": "Am"
+            }
+          ],
           "temps": [
             {
-              "chord": "Am",
               "nbTemps": 1,
               "sons": [
                 {
-                   "properties": [
+                  "properties": [
                     {
                       "cod": 1,
                       "val": 1
@@ -3409,7 +3480,7 @@
                   ]
                 },
                 {
-                   "properties": [
+                  "properties": [
                     {
                       "cod": 1,
                       "val": 1
@@ -3433,7 +3504,7 @@
                   ]
                 },
                 {
-                   "properties": [
+                  "properties": [
                     {
                       "cod": 1,
                       "val": 1
@@ -3459,7 +3530,6 @@
               ]
             },
             {
-              "chord": "Am",
               "nbTemps": 1,
               "sons": [
                 {
@@ -3487,7 +3557,7 @@
                   ]
                 },
                 {
-                   "properties": [
+                  "properties": [
                     {
                       "cod": 1,
                       "val": 1
@@ -3511,7 +3581,7 @@
                   ]
                 },
                 {
-                   "properties": [
+                  "properties": [
                     {
                       "cod": 1,
                       "val": 1
@@ -3561,11 +3631,10 @@
               ]
             },
             {
-              "chord": "Am",
               "nbTemps": 1,
               "sons": [
                 {
-                   "properties": [
+                  "properties": [
                     {
                       "cod": 1,
                       "val": 1
@@ -3608,12 +3677,12 @@
                     },
                     {
                       "cod": 5,
-                      "val":6
+                      "val": 6
                     }
                   ]
                 },
                 {
-                   "properties": [
+                  "properties": [
                     {
                       "cod": 1,
                       "val": 1
@@ -3637,7 +3706,7 @@
                   ]
                 },
                 {
-                   "properties": [
+                  "properties": [
                     {
                       "cod": 1,
                       "val": 1
@@ -3663,11 +3732,10 @@
               ]
             },
             {
-              "chord": "Am",
               "nbTemps": 1,
               "sons": [
                 {
-                   "properties": [
+                  "properties": [
                     {
                       "cod": 1,
                       "val": 1
@@ -3691,7 +3759,7 @@
                   ]
                 },
                 {
-                   "properties": [
+                  "properties": [
                     {
                       "cod": 1,
                       "val": 1
@@ -3715,7 +3783,7 @@
                   ]
                 },
                 {
-                   "properties": [
+                  "properties": [
                     {
                       "cod": 1,
                       "val": 1
@@ -3769,16 +3837,21 @@
       ]
     },
     {
-      "id": 3,
+      "id": "69c0e030-f496-4865-bb17-569399091da5",
       "mesures": [
         {
           "temps": [
             {
-              "chord": "E",
               "nbTemps": 1,
+              "properties": [
+                {
+                  "cod": 1,
+                  "val": "E"
+                }
+              ],
               "sons": [
                 {
-                   "properties": [
+                  "properties": [
                     {
                       "cod": 1,
                       "val": 1
@@ -3802,7 +3875,7 @@
                   ]
                 },
                 {
-                   "properties": [
+                  "properties": [
                     {
                       "cod": 1,
                       "val": 1
@@ -3826,7 +3899,7 @@
                   ]
                 },
                 {
-                   "properties": [
+                  "properties": [
                     {
                       "cod": 1,
                       "val": 1
@@ -3876,11 +3949,16 @@
               ]
             },
             {
-              "chord": "E",
               "nbTemps": 1,
+              "properties": [
+                {
+                  "cod": 1,
+                  "val": "E"
+                }
+              ],
               "sons": [
                 {
-                   "properties": [
+                  "properties": [
                     {
                       "cod": 1,
                       "val": 1
@@ -3904,7 +3982,7 @@
                   ]
                 },
                 {
-                   "properties": [
+                  "properties": [
                     {
                       "cod": 1,
                       "val": 1
@@ -3978,8 +4056,13 @@
               ]
             },
             {
-              "chord": "Am",
               "nbTemps": 1,
+              "properties": [
+                {
+                  "cod": 1,
+                  "val": "Am"
+                }
+              ],
               "sons": [
                 {
                   "properties": [
@@ -4080,400 +4163,13 @@
               ]
             },
             {
-              "chord": "Am",
               "nbTemps": 1,
-              "sons": [
+              "properties": [
                 {
-                   "properties": [
-                    {
-                      "cod": 1,
-                      "val": 1
-                    },
-                    {
-                      "cod": 2,
-                      "val": 6
-                    },
-                    {
-                      "cod": 3,
-                      "val": false
-                    },
-                    {
-                      "cod": 4,
-                      "val": 2
-                    },
-                    {
-                      "cod": 5,
-                      "val": 3
-                    }
-                  ]
-                },
-                {
-                  "properties": [
-                    {
-                      "cod": 1,
-                      "val": 1
-                    },
-                    {
-                      "cod": 2,
-                      "val": 6
-                    },
-                    {
-                      "cod": 3,
-                      "val": false
-                    },
-                    {
-                      "cod": 4,
-                      "val": 0
-                    },
-                    {
-                      "cod": 5,
-                      "val": 6
-                    }
-                  ]
-                },
-                {
-                   "properties": [
-                    {
-                      "cod": 1,
-                      "val": 1
-                    },
-                    {
-                      "cod": 2,
-                      "val": 6
-                    },
-                    {
-                      "cod": 3,
-                      "val": false
-                    },
-                    {
-                      "cod": 4,
-                      "val": 1
-                    },
-                    {
-                      "cod": 5,
-                      "val": 5
-                    }
-                  ]
-                },
-                {
-                  "properties": [
-                    {
-                      "cod": 1,
-                      "val": 1
-                    },
-                    {
-                      "cod": 2,
-                      "val": 6
-                    },
-                    {
-                      "cod": 3,
-                      "val": false
-                    },
-                    {
-                      "cod": 4,
-                      "val": 2
-                    },
-                    {
-                      "cod": 5,
-                      "val": 4
-                    }
-                  ]
+                  "cod": 1,
+                  "val": "Am"
                 }
-              ]
-            }
-          ]
-        },
-        {
-          "temps": [
-            {
-              "chord": "G",
-              "nbTemps": 1,
-              "sons": [
-                {
-                  "corde": 1,
-                  "position": 3,
-                  "type": 1,
-                  "dur": 6
-                },
-                {
-                  "corde": 6,
-                  "position": 3,
-                  "type": 1,
-                  "dur": 6
-                },
-                {
-                  "corde": 5,
-                  "position": 0,
-                  "type": 1,
-                  "dur": 6
-                },
-                {
-                  "corde": 4,
-                  "position": 0,
-                  "type": 1,
-                  "dur": 6
-                }
-              ]
-            },
-            {
-              "chord": "G",
-              "nbTemps": 1,
-              "sons": [
-                {
-                  "corde": 2,
-                  "position": 2,
-                  "type": 1,
-                  "dur": 6
-                },
-                {
-                  "corde": 6,
-                  "position": 3,
-                  "type": 1,
-                  "dur": 6
-                },
-                {
-                  "corde": 5,
-                  "position": 0,
-                  "type": 1,
-                  "dur": 6
-                },
-                {
-                  "corde": 4,
-                  "position": 0,
-                  "type": 1,
-                  "dur": 6
-                }
-              ]
-            },
-            {
-              "chord": "C",
-              "nbTemps": 1,
-              "sons": [
-                {
-                  "corde": 2,
-                  "position": 3,
-                  "type": 1,
-                  "dur": 6
-                },
-                {
-                  "corde": 6,
-                  "position": 0,
-                  "type": 1,
-                  "dur": 6
-                },
-                {
-                  "corde": 5,
-                  "position": 1,
-                  "type": 1,
-                  "dur": 6
-                },
-                {
-                  "corde": 4,
-                  "position": 0,
-                  "type": 1,
-                  "dur": 6
-                }
-              ]
-            },
-            {
-              "chord": "C",
-              "nbTemps": 1,
-              "sons": [
-                {
-                  "corde": 3,
-                  "position": 2,
-                  "type": 1,
-                  "dur": 6
-                },
-                {
-                  "corde": 6,
-                  "position": 0,
-                  "type": 1,
-                  "dur": 6
-                },
-                {
-                  "corde": 5,
-                  "position": 1,
-                  "type": 1,
-                  "dur": 6
-                },
-                {
-                  "corde": 4,
-                  "position": 0,
-                  "type": 1,
-                  "dur": 6
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "temps": [
-            {
-              "chord": "E",
-              "nbTemps": 1,
-              "sons": [
-                {
-                  "corde": 1,
-                  "position": 0,
-                  "type": 1,
-                  "dur": 6
-                },
-                {
-                  "corde": 6,
-                  "position": 0,
-                  "type": 1,
-                  "dur": 6
-                },
-                {
-                  "corde": 5,
-                  "position": 0,
-                  "type": 1,
-                  "dur": 6
-                },
-                {
-                  "corde": 4,
-                  "position": 1,
-                  "type": 1,
-                  "dur": 6
-                }
-              ]
-            },
-            {
-              "chord": "E",
-              "nbTemps": 1,
-              "sons": [
-                {
-                  "corde": 2,
-                  "position": 2,
-                  "type": 1,
-                  "dur": 6
-                },
-                {
-                  "corde": 6,
-                  "position": 0,
-                  "type": 1,
-                  "dur": 6
-                },
-                {
-                  "corde": 5,
-                  "position": 0,
-                  "type": 1,
-                  "dur": 6
-                },
-                {
-                  "corde": 4,
-                  "position": 1,
-                  "type": 1,
-                  "dur": 6
-                }
-              ]
-            },
-            {
-              "chord": "Am",
-              "nbTemps": 1,
-              "sons": [
-                {
-                   "properties": [
-                    {
-                      "cod": 1,
-                      "val": 1
-                    },
-                    {
-                      "cod": 2,
-                      "val": 6
-                    },
-                    {
-                      "cod": 3,
-                      "val": false
-                    },
-                    {
-                      "cod": 4,
-                      "val": 0
-                    },
-                    {
-                      "cod": 5,
-                      "val": 2
-                    }
-                  ]
-                },
-                {
-                   "properties": [
-                    {
-                      "cod": 1,
-                      "val": 1
-                    },
-                    {
-                      "cod": 2,
-                      "val": 6
-                    },
-                    {
-                      "cod": 3,
-                      "val": false
-                    },
-                    {
-                      "cod": 4,
-                      "val": 0
-                    },
-                    {
-                      "cod": 5,
-                      "val": 6
-                    }
-                  ]
-                },
-                {
-                  "properties": [
-                    {
-                      "cod": 1,
-                      "val": 1
-                    },
-                    {
-                      "cod": 2,
-                      "val": 6
-                    },
-                    {
-                      "cod": 3,
-                      "val": false
-                    },
-                    {
-                      "cod": 4,
-                      "val": 1
-                    },
-                    {
-                      "cod": 5,
-                      "val": 5
-                    }
-                  ]
-                },
-                {
-                   "properties": [
-                    {
-                      "cod": 1,
-                      "val": 1
-                    },
-                    {
-                      "cod": 2,
-                      "val": 6
-                    },
-                    {
-                      "cod": 3,
-                      "val": false
-                    },
-                    {
-                      "cod": 4,
-                      "val": 2
-                    },
-                    {
-                      "cod": 5,
-                      "val": 4
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "chord": "Am",
-              "nbTemps": 1,
+              ],
               "sons": [
                 {
                   "properties": [
@@ -4578,7 +4274,876 @@
         {
           "temps": [
             {
-              "chord": "Bb sus2",
+              "nbTemps": 1,
+              "properties": [
+                {
+                  "cod": 1,
+                  "val": "G"
+                }
+              ],
+              "sons": [
+                {
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 1
+                    },
+                    {
+                      "cod": 5,
+                      "val": 3
+                    }
+                  ]
+                },
+                {
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 3
+                    },
+                    {
+                      "cod": 5,
+                      "val": 6
+                    }
+                  ]
+                },
+                {
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 0
+                    },
+                    {
+                      "cod": 5,
+                      "val": 5
+                    }
+                  ]
+                },
+                {
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 0
+                    },
+                    {
+                      "cod": 5,
+                      "val": 4
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "nbTemps": 1,
+              "properties": [
+                {
+                  "cod": 1,
+                  "val": "G"
+                }
+              ],
+              "sons": [
+                {
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 2
+                    },
+                    {
+                      "cod": 5,
+                      "val": 2
+                    }
+                  ]
+                },
+                {
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 3
+                    },
+                    {
+                      "cod": 5,
+                      "val": 6
+                    }
+                  ]
+                },
+                {
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 0
+                    },
+                    {
+                      "cod": 5,
+                      "val": 5
+                    }
+                  ]
+                },
+                {
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 0
+                    },
+                    {
+                      "cod": 5,
+                      "val": 4
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "nbTemps": 1,
+              "properties": [
+                {
+                  "cod": 1,
+                  "val": "C"
+                }
+              ],
+              "sons": [
+                {
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 3
+                    },
+                    {
+                      "cod": 5,
+                      "val": 2
+                    }
+                  ]
+                },
+                {
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 0
+                    },
+                    {
+                      "cod": 5,
+                      "val": 6
+                    }
+                  ]
+                },
+                {
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 1
+                    },
+                    {
+                      "cod": 5,
+                      "val": 5
+                    }
+                  ]
+                },
+                {
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 0
+                    },
+                    {
+                      "cod": 5,
+                      "val": 4
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "nbTemps": 1,
+              "properties": [
+                {
+                  "cod": 1,
+                  "val": "C"
+                }
+              ],
+              "sons": [
+                {
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 2
+                    },
+                    {
+                      "cod": 5,
+                      "val": 3
+                    }
+                  ]
+                },
+                {
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 0
+                    },
+                    {
+                      "cod": 5,
+                      "val": 6
+                    }
+                  ]
+                },
+                {
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 1
+                    },
+                    {
+                      "cod": 5,
+                      "val": 5
+                    }
+                  ]
+                },
+                {
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 0
+                    },
+                    {
+                      "cod": 5,
+                      "val": 4
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "temps": [
+            {
+              "nbTemps": 1,
+              "properties": [
+                {
+                  "cod": 1,
+                  "val": "E"
+                }
+              ],
+              "sons": [
+                {
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 0
+                    },
+                    {
+                      "cod": 5,
+                      "val": 1
+                    }
+                  ]
+                },
+                {
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 0
+                    },
+                    {
+                      "cod": 5,
+                      "val": 6
+                    }
+                  ]
+                },
+                {
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 0
+                    },
+                    {
+                      "cod": 5,
+                      "val": 5
+                    }
+                  ]
+                },
+                {
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 1
+                    },
+                    {
+                      "cod": 5,
+                      "val": 4
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "nbTemps": 1,
+              "properties": [
+                {
+                  "cod": 1,
+                  "val": "E"
+                }
+              ],
+              "sons": [
+                {
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 2
+                    },
+                    {
+                      "cod": 5,
+                      "val": 2
+                    }
+                  ]
+                },
+                {
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 0
+                    },
+                    {
+                      "cod": 5,
+                      "val": 6
+                    }
+                  ]
+                },
+                {
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 0
+                    },
+                    {
+                      "cod": 5,
+                      "val": 5
+                    }
+                  ]
+                },
+                {
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 1
+                    },
+                    {
+                      "cod": 5,
+                      "val": 4
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "nbTemps": 1,
+              "properties": [
+                {
+                  "cod": 1,
+                  "val": "Am"
+                }
+              ],
+              "sons": [
+                {
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 0
+                    },
+                    {
+                      "cod": 5,
+                      "val": 2
+                    }
+                  ]
+                },
+                {
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 0
+                    },
+                    {
+                      "cod": 5,
+                      "val": 6
+                    }
+                  ]
+                },
+                {
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 1
+                    },
+                    {
+                      "cod": 5,
+                      "val": 5
+                    }
+                  ]
+                },
+                {
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 2
+                    },
+                    {
+                      "cod": 5,
+                      "val": 4
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "nbTemps": 1,
+              "properties": [
+                {
+                  "cod": 1,
+                  "val": "Am"
+                }
+              ],
+              "sons": [
+                {
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 2
+                    },
+                    {
+                      "cod": 5,
+                      "val": 3
+                    }
+                  ]
+                },
+                {
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 0
+                    },
+                    {
+                      "cod": 5,
+                      "val": 6
+                    }
+                  ]
+                },
+                {
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 1
+                    },
+                    {
+                      "cod": 5,
+                      "val": 5
+                    }
+                  ]
+                },
+                {
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
+                    {
+                      "cod": 2,
+                      "val": 6
+                    },
+                    {
+                      "cod": 3,
+                      "val": false
+                    },
+                    {
+                      "cod": 4,
+                      "val": 2
+                    },
+                    {
+                      "cod": 5,
+                      "val": 4
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "properties": [
+            {
+              "cod": 1,
+              "val": "Bb sus2"
+            }
+          ],
+          "temps": [
+            {
               "nbTemps": 1,
               "sons": [
                 {
@@ -4606,7 +5171,7 @@
                   ]
                 },
                 {
-                   "properties": [
+                  "properties": [
                     {
                       "cod": 1,
                       "val": 1
@@ -4680,11 +5245,10 @@
               ]
             },
             {
-              "chord": "Bb sus2",
               "nbTemps": 1,
               "sons": [
                 {
-                   "properties": [
+                  "properties": [
                     {
                       "cod": 1,
                       "val": 1
@@ -4708,11 +5272,11 @@
                   ]
                 },
                 {
-                 "properties": [
-                  {
-                    "cod": 1,
-                    "val": 1
-                  },
+                  "properties": [
+                    {
+                      "cod": 1,
+                      "val": 1
+                    },
                     {
                       "cod": 2,
                       "val": 6
@@ -4782,7 +5346,6 @@
               ]
             },
             {
-              "chord": "Bb sus2",
               "nbTemps": 2,
               "sons": [
                 {
@@ -4799,19 +5362,54 @@
       ]
     }
   ],
-  "languages": [
+  "lngrsrcs": [
     {
       "lang": "fr",
-      "comment": "commentaire général au sujet du la chanson",
+      "comment": "Magnifique chanson et très bon tuto de GalagoMusic",
       "content": [
         {
           "type": 1,
           "field": 1,
-          "id": 1,
+          "id": "59e4f4d7-247d-45ff-b62d-2e7e5397251a",
           "content": "Intro"
+        },
+        {
+          "type": 1,
+          "field": 1,
+          "id": "21c929c4-600e-48ec-8717-678c1824eec7",
+          "content": "Couplet"
+        },
+        {
+          "type": 1,
+          "field": 1,
+          "id": "69c0e030-f496-4865-bb17-569399091da5",
+          "content": "Refrain"
         }
-      ],
-      "tags": null
+      ]
+    },
+    {
+      "lang": "en",
+      "comment": "",
+      "content": [
+        {
+          "type": 1,
+          "field": 1,
+          "id": "59e4f4d7-247d-45ff-b62d-2e7e5397251a",
+          "content": "Intro"
+        },
+        {
+          "type": 1,
+          "field": 1,
+          "id": "21c929c4-600e-48ec-8717-678c1824eec7",
+          "content": "part couplet"
+        },
+        {
+          "type": 1,
+          "field": 1,
+          "id": "69c0e030-f496-4865-bb17-569399091da5",
+          "content": "part refrain"
+        }
+      ]
     }
   ]
 }
