@@ -15,6 +15,10 @@
     {
       "cod": 4,
       "val": 44
+    },
+    {
+      "cod": 5,
+      "val": "4BBD4A60-5EDF-40B2-BF91-7687E3A94755"
     }
   ],
   "src": {
@@ -29,23 +33,33 @@
     "mnr": 0,
     "rev": 16
   },
-  "instrument": 1,
-  "instrument_type": 3,
-  "instrument_settings": [
-    {
-      "cod": 1,
-      "val": "standard"
-    },
-    {
-      "cod": 2,
-      "val": "5"
-    },
-    {
-      "cod": 3,
-      "val": "Am|C|C/B|Dm|F|G|Bsus2|A"
-    }
-  ],
-  "instrument_effects": null,
+  "instrument": {
+    "cod": 1,
+    "typ": 3,
+    "conf": [
+      {
+        "cod": 1,
+        "pprts": [
+          {
+            "cod": 1,
+            "val": "standard"
+          },
+          {
+            "cod": 2,
+            "val": "5"
+          },
+          {
+            "cod": 3,
+            "val": "Am|C|C/B|Dm|F|G|Bsus2|A"
+          }
+        ]
+      },
+      {
+        "cod": 2,
+        "pprts": null
+      }
+    ]
+  },
   "strctr": [
     {
       "id": "59e4f4d7-247d-45ff-b62d-2e7e5397251a",
