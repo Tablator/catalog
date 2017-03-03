@@ -2,7 +2,7 @@
   "pprts": [
     {
       "cod": 1,
-      "val": "Je l'aime à mourir"
+      "val": "Je l'aime &agrave; mourir"
     },
     {
       "cod": 2,
@@ -5390,7 +5390,7 @@
   "lngrsrcs": [
     {
       "lng": "fr",
-      "cmt": "Magnifique chanson et très bon tuto de GalagoMusic",
+      "cmt": "Magnifique chanson et tr&egrave;s bon tuto de GalagoMusic",
       "cnt": [
         {
           "type": 1,
@@ -5411,7 +5411,7 @@
           "content": "Refrain"
         }
       ],
-      "tags": [ "acoustique", "arpèges" ]
+      "tags": [ "acoustique", "arp&egrav;ges" ]
     },
     {
       "lng": "en",
