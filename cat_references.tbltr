@@ -1,7 +1,7 @@
 ﻿{
   "hrrchrefs": [
     {
-	  "id":"4BBD4A60-5EDF-40B2-BF91-7687E3A94755";
+	  "id":"4BBD4A60-5EDF-40B2-BF91-7687E3A94755",
       "name": "Francis Cabrel - Je l'aime à mourir (Guitar Tab)",
 	  "rlpth":"francis-cabrel-je-l-aime-a-mourir-guitar-tab",
       "parents": [
@@ -12,7 +12,7 @@
       ]
     },
     {
-	  "id":"4BBD4A60-5EDF-40B2-BF91-7687E3A94755";
+	  "id":"4BBD4A60-5EDF-40B2-BF91-7687E3A94755",
       "name": "Matthieu Chedid ( -M- ) Faut oublier (Guitar Tab)",
 	  "rlpth":"guitar/matthieu-chedid/m-faut-oublier",
       "parents": [
