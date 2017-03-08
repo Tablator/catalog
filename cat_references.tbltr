@@ -1,24 +1,24 @@
 ﻿{
-  "references": [
+  "hrrchrefs": [
     {
-      "path": "Francis Cabrel\\Je laime a mourir",
+	  "id":"4BBD4A60-5EDF-40B2-BF91-7687E3A94755";
       "name": "Francis Cabrel - Je l'aime à mourir (Guitar Tab)",
-	  "url_title":"francis-cabrel-je-l-aime-a-mourir-guitar-tab",
+	  "rlpth":"francis-cabrel-je-l-aime-a-mourir-guitar-tab",
       "parents": [
         {
           "id": "4BBD4A60-5EDF-40B2-BF91-7687E3A94755",
-          "position": 1
+          "posi": 1
         }
       ]
     },
     {
-      "path": "Matthieu Chedid\\Le tour de M\\Faut oublier",
+	  "id":"4BBD4A60-5EDF-40B2-BF91-7687E3A94755";
       "name": "Matthieu Chedid ( -M- ) Faut oublier (Guitar Tab)",
-	  "url_title":"matthieu-chedid-m-faut-oublier-guitar-tab",
+	  "rlpth":"guitar/matthieu-chedid/m-faut-oublier",
       "parents": [
         {
           "id": "5CC91AAA-7207-4940-80FB-F173FC09DE39",
-          "position": 1
+          "posi": 1
         }
       ]
     }
