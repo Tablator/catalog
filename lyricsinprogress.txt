@@ -1,0 +1,340 @@
+"lrcs": {
+	"lng":"fr",
+	"thr":"Francis Cabrel",
+	"phrs": 2,
+	"prts":[
+		{
+			"id": "9bd56e9b-5c7d-4ff3-a63b-3afc598b7e74",
+			"pid": "59e4f4d7-247d-45ff-b62d-2e7e5397251a",
+			"phrss":[
+				{
+					"a":null,
+					"c":[
+						{
+							"p":-1,
+							"c":"C"
+						},
+						{
+							"p":-1,
+							"c":"C/B"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "af4f5dbd-2955-422a-b6c6-e97380757cbf",
+			"pid": "21c929c4-600e-48ec-8717-678c1824eec7",//couplet
+			"phrss":[
+				{
+					"a":[
+						{
+							"cod":1,
+							"val":"Moi je n'étais rien"
+						}
+					],
+					"c":[
+						{
+							"p":1,
+							"c":"C"
+						}
+					]
+				},
+				{
+					"a":[
+						{
+							"cod":1,
+							"val":"Et voilà qu'aujourd'hui"
+						}
+					],
+					"c":[
+						{
+							"p":1,
+							"c":"Em/5+"
+						}
+					]
+				},
+				{
+					"a":[
+						{
+							"cod":1,
+							"val":"Je suis le gardien"
+						}
+					],
+					"c":[
+						{
+							"p":1,
+							"c":"C/B"
+						}
+					]
+				},
+				{
+					"a":[
+						{
+							"cod":1,
+							"val":"Du sommeil de ses nuits"
+						}
+					],
+					"c":[
+						{
+							"p":1,
+							"c":"C/B"
+						}
+					]
+				},
+				{
+					"a":[
+						{
+							"cod":1,
+							"val":"Je l'aime à mourir"
+						}
+					],
+					"c":[
+						{
+							"p":4,
+							"c":"Am"
+						}
+					]
+				},
+				{
+					"a":[
+						{
+							"cod":1,
+							"val":""
+						}
+					],
+					"c":[
+						{
+							"p":-1, // -1=center ,-2= align left,-3= align right
+							"c":"Am"
+						}
+					]
+				},
+				{
+					"a":[
+						{
+							"cod":1,
+							"val":"Vous pouvez détruire"
+						}
+					],
+					"c":[
+						{
+							"p":2,
+							"c":"Dm"
+						}
+					]
+				},
+				{
+					"a":[
+						{
+							"cod":1,
+							"val":"Tout ce qu'il vous plaira"
+						}
+					],
+					"c":[
+						{
+							"p":2,
+							"c":"Dm"
+						}
+					]
+				},
+				{
+					"a":[
+						{
+							"cod":1,
+							"val":"Elle n'a qu'à ouvrir"
+						}
+					],
+					"c":[
+						{
+							"p":2,
+							"c":"F"
+						}
+					]
+				},
+				{
+					"a":[
+						{
+							"cod":1,
+							"val":"L'espace de ses bras"
+						}
+					],
+					"c":[
+						{
+							"p":2,
+							"c":"G"
+						}
+					]
+				},
+				{
+					"a":[
+						{
+							"cod":1,
+							"val":"Pour tout reconstruire"
+						}
+					],
+					"c":[
+						{
+							"p":2,
+							"c":"C"
+						}
+					]
+				},
+				{
+					"a":[
+						{
+							"cod":1,
+							"val":"Pour tout reconstruire"
+						}
+					],
+					"c":[
+						{
+							"p":2,
+							"c":"C/B"
+						}
+					]
+				},
+				{
+					"a":[
+						{
+							"cod":1,
+							"val":"Je l'aime à mourir"
+						}
+					],
+					"c":[
+						{
+							"p":4,
+							"c":"Am"
+						}
+					]
+				},
+				{
+					"a":[
+						{
+							"cod":1,
+							"val":""
+						}
+					],
+					"c":[
+						{
+							"p":-1,
+							"c":"Am"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "262a3118-9fa7-4b40-9860-71e88675125a",
+			"pid": "21c929c4-600e-48ec-8717-678c1824eec7",//couplet
+			"phrss":[
+			]
+		},
+		{
+			"id": "2e22748c-7af4-4289-b685-dc2faf4294ba",
+			"pid": "69c0e030-f496-4865-bb17-569399091da5",//refrain
+			"phrss":[
+			]
+		},
+		{
+			"id": "7f3d27d5-4c05-436d-bf5e-546b0f3ec55b",
+			"pid": "21c929c4-600e-48ec-8717-678c1824eec7",//couplet
+			"phrss":[
+			]
+		},
+		{
+			"id": "18e91c8d-4ae0-4de9-8e0d-1a64a3905737",
+			"pid": "21c929c4-600e-48ec-8717-678c1824eec7",//couplet
+			"phrss":[
+			]
+		},
+		{
+			"id": "8b4a3931-398b-4612-abfb-6814b46b3cfe",
+			"pid": "21c929c4-600e-48ec-8717-678c1824eec7",//couplet
+			"phrss":[
+			]
+		},
+		{
+			"id": "b7052760-bd21-4866-9a32-6e2e9b22d927",
+			"pid": "69c0e030-f496-4865-bb17-569399091da5",//refrain
+			"phrss":[
+			]
+		},
+		{
+			"id": "1af76b09-4a23-4d04-88fd-ae00e87fa046",
+			"pid": "21c929c4-600e-48ec-8717-678c1824eec7",//couplet
+			"phrss":[
+			]
+		}
+	]
+}
+
+
+
+
+
+
+
+
+Elle a gommé les chiffres
+Des horloges du quartier
+Elle a fait de ma vie
+Des cocottes en papier
+Des éclats de rire
+Elle a bâti des ponts
+Entre nous et le ciel
+Et nous les traversons
+À chaque fois qu'elle
+Ne veut pas dormir
+Ne veut pas dormir
+Je l'aime à mourir
+
+Elle a dû faire toutes les guerres
+Pour être si forte aujourd'hui
+Elle a dû faire toutes les guerres
+De la vie, et l'amour aussi
+
+Elle vit de son mieux
+Son rêve d'opaline
+Elle danse au milieu
+Des forêts qu'elle dessine
+Je l'aime à mourir
+
+Elle porte des rubans
+Qu'elle laisse s'envoler
+Elle me chante souvent
+Que j'ai tort d'essayer
+De les retenir
+De les retenir
+Je l'aime à mourir
+Pour monter dans sa grotte
+Cachée sous les toits
+Je dois clouer des notes
+À mes sabots de bois
+Je l'aime à mourir
+
+Je dois juste m'asseoir
+Je ne dois pas parler
+Je ne dois rien vouloir
+Je dois juste essayer
+De lui appartenir
+De lui appartenir
+Je l'aime à mourir
+
+Elle a dû faire toutes les guerres
+Pour être si forte aujourd'hui
+Elle a dû faire toutes les guerres
+De la vie, et l'amour aussi
+
+Moi je n'étais rien
+Et voilà qu'aujourd'hui
+Je suis le gardien
+Du sommeil de ses nuits
+Je l'aime à mourir
+Vous pouvez détruire
+Tout ce qu'il vous plaira
+Elle n'aura qu'à ouvrir
+L'espace de ses bras
+Pour tout reconstruire
+Pour tout reconstruire
+Je l'aime à mourir

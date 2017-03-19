@@ -5468,5 +5468,233 @@
         "ip": ""
       }
     }
-  ]
+  ],
+  "lrcs": {
+	"lng":"fr",
+	"thr":"Francis Cabrel",
+	"phrs": 2,
+	"prts":[
+		{
+			"id": "9bd56e9b-5c7d-4ff3-a63b-3afc598b7e74",
+			"pid": "59e4f4d7-247d-45ff-b62d-2e7e5397251a",
+			"phrss":[
+				{
+					"a":null,
+					"c":[
+						{
+							"p":-1,
+							"c":"C"
+						},
+						{
+							"p":-1,
+							"c":"C/B"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "af4f5dbd-2955-422a-b6c6-e97380757cbf",
+			"pid": "21c929c4-600e-48ec-8717-678c1824eec7",
+			"phrss":[
+				{
+					"a":[
+						{
+							"cod":1,
+							"val":"Moi je n'étais rien"
+						}
+					],
+					"c":[
+						{
+							"p":1,
+							"c":"C"
+						}
+					]
+				},
+				{
+					"a":[
+						{
+							"cod":1,
+							"val":"Et voilà qu'aujourd'hui"
+						}
+					],
+					"c":[
+						{
+							"p":1,
+							"c":"Em/5+"
+						}
+					]
+				},
+				{
+					"a":[
+						{
+							"cod":1,
+							"val":"Je suis le gardien"
+						}
+					],
+					"c":[
+						{
+							"p":1,
+							"c":"C/B"
+						}
+					]
+				},
+				{
+					"a":[
+						{
+							"cod":1,
+							"val":"Du sommeil de ses nuits"
+						}
+					],
+					"c":[
+						{
+							"p":1,
+							"c":"C/B"
+						}
+					]
+				},
+				{
+					"a":[
+						{
+							"cod":1,
+							"val":"Je l'aime à mourir"
+						}
+					],
+					"c":[
+						{
+							"p":4,
+							"c":"Am"
+						}
+					]
+				},
+				{
+					"a":[
+						{
+							"cod":1,
+							"val":""
+						}
+					],
+					"c":[
+						{
+							"p":-1, // -1=center ,-2= align left,-3= align right
+							"c":"Am"
+						}
+					]
+				},
+				{
+					"a":[
+						{
+							"cod":1,
+							"val":"Vous pouvez détruire"
+						}
+					],
+					"c":[
+						{
+							"p":2,
+							"c":"Dm"
+						}
+					]
+				},
+				{
+					"a":[
+						{
+							"cod":1,
+							"val":"Tout ce qu'il vous plaira"
+						}
+					],
+					"c":[
+						{
+							"p":2,
+							"c":"Dm"
+						}
+					]
+				},
+				{
+					"a":[
+						{
+							"cod":1,
+							"val":"Elle n'a qu'à ouvrir"
+						}
+					],
+					"c":[
+						{
+							"p":2,
+							"c":"F"
+						}
+					]
+				},
+				{
+					"a":[
+						{
+							"cod":1,
+							"val":"L'espace de ses bras"
+						}
+					],
+					"c":[
+						{
+							"p":2,
+							"c":"G"
+						}
+					]
+				},
+				{
+					"a":[
+						{
+							"cod":1,
+							"val":"Pour tout reconstruire"
+						}
+					],
+					"c":[
+						{
+							"p":2,
+							"c":"C"
+						}
+					]
+				},
+				{
+					"a":[
+						{
+							"cod":1,
+							"val":"Pour tout reconstruire"
+						}
+					],
+					"c":[
+						{
+							"p":2,
+							"c":"C/B"
+						}
+					]
+				},
+				{
+					"a":[
+						{
+							"cod":1,
+							"val":"Je l'aime à mourir"
+						}
+					],
+					"c":[
+						{
+							"p":4,
+							"c":"Am"
+						}
+					]
+				},
+				{
+					"a":[
+						{
+							"cod":1,
+							"val":""
+						}
+					],
+					"c":[
+						{
+							"p":-1,
+							"c":"Am"
+						}
+					]
+				}
+			]
+		}
+	]
+	}
 }
