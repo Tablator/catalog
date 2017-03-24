@@ -5501,7 +5501,7 @@
 					"a":[
 						{
 							"cod":1,
-							"val":"Moi je n'étais rien"
+							"val":"Moi je n'&eacute;tais rien"
 						}
 					],
 					"c":[
@@ -5515,7 +5515,7 @@
 					"a":[
 						{
 							"cod":1,
-							"val":"Et voilà qu'aujourd'hui"
+							"val":"Et voil&agrave; qu'aujourd'hui"
 						}
 					],
 					"c":[
@@ -5557,7 +5557,7 @@
 					"a":[
 						{
 							"cod":1,
-							"val":"Je l'aime à mourir"
+							"val":"Je l'aime &agrave; mourir"
 						}
 					],
 					"c":[
@@ -5576,7 +5576,7 @@
 					],
 					"c":[
 						{
-							"p":-1,
+							"p":-1, // -1=center ,-2= align left,-3= align right
 							"c":"Am"
 						}
 					]
@@ -5585,7 +5585,7 @@
 					"a":[
 						{
 							"cod":1,
-							"val":"Vous pouvez détruire"
+							"val":"Vous pouvez d&eacute;truire"
 						}
 					],
 					"c":[
@@ -5613,7 +5613,7 @@
 					"a":[
 						{
 							"cod":1,
-							"val":"Elle n'a qu'à ouvrir"
+							"val":"Elle n'a qu'&agrave; ouvrir"
 						}
 					],
 					"c":[
@@ -5669,7 +5669,7 @@
 					"a":[
 						{
 							"cod":1,
-							"val":"Je l'aime à mourir"
+							"val":"Je l'aime &agrave; mourir"
 						}
 					],
 					"c":[
@@ -5690,6 +5690,810 @@
 						{
 							"p":-1,
 							"c":"Am"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "262a3118-9fa7-4b40-9860-71e88675125a",
+			"pid": "21c929c4-600e-48ec-8717-678c1824eec7",
+			"phrss":[
+				{
+					"a":[
+						{
+							"cod":1,
+							"val":"Elle a gomm&eacute; les chiffres"
+						}
+					],
+					"c":[
+						{
+							"p":1,
+							"c":""
+						}
+					]
+				},
+				{
+					"a":[
+						{
+							"cod":1,
+							"val":"Des horloges du quartier"
+						}
+					],
+					"c":[
+						{
+							"p":1,
+							"c":""
+						}
+					]
+				},				{
+					"a":[
+						{
+							"cod":1,
+							"val":"Elle a fait de ma vie"
+						}
+					],
+					"c":[
+						{
+							"p":1,
+							"c":""
+						}
+					]
+				},
+				{
+					"a":[
+						{
+							"cod":1,
+							"val":"Des cocottes en papier"
+						}
+					],
+					"c":[
+						{
+							"p":1,
+							"c":""
+						}
+					]
+				},				{
+					"a":[
+						{
+							"cod":1,
+							"val":"Des &eacute;clats de rire"
+						}
+					],
+					"c":[
+						{
+							"p":1,
+							"c":""
+						}
+					]
+				},
+				{
+					"a":[
+						{
+							"cod":1,
+							"val":"Elle a bâti des ponts"
+						}
+					],
+					"c":[
+						{
+							"p":1,
+							"c":""
+						}
+					]
+				},				{
+					"a":[
+						{
+							"cod":1,
+							"val":"Entre nous et le ciel"
+						}
+					],
+					"c":[
+						{
+							"p":1,
+							"c":""
+						}
+					]
+				},
+				{
+					"a":[
+						{
+							"cod":1,
+							"val":"Et nous les traversons"
+						}
+					],
+					"c":[
+						{
+							"p":1,
+							"c":""
+						}
+					]
+				},				{
+					"a":[
+						{
+							"cod":1,
+							"val":"&agrave; chaque fois qu'elle"
+						}
+					],
+					"c":[
+						{
+							"p":1,
+							"c":""
+						}
+					]
+				},
+				{
+					"a":[
+						{
+							"cod":1,
+							"val":"Ne veut pas dormir"
+						}
+					],
+					"c":[
+						{
+							"p":1,
+							"c":""
+						}
+					]
+				},				{
+					"a":[
+						{
+							"cod":1,
+							"val":"Ne veut pas dormir"
+						}
+					],
+					"c":[
+						{
+							"p":1,
+							"c":""
+						}
+					]
+				},
+				{
+					"a":[
+						{
+							"cod":1,
+							"val":"Je l'aime &agrave; mourir"
+						}
+					],
+					"c":[
+						{
+							"p":1,
+							"c":""
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "2e22748c-7af4-4289-b685-dc2faf4294ba",
+			"pid": "69c0e030-f496-4865-bb17-569399091da5",
+			"phrss":[
+				{
+					"a":[
+						{
+							"cod":1,
+							"val":"Elle a d&ucirc; faire toutes les guerres"
+						}
+					],
+					"c":[
+						{
+							"p":1,
+							"c":""
+						}
+					]
+				},
+				{
+					"a":[
+						{
+							"cod":1,
+							"val":"Pour &ecirc;tre si forte aujourd'hui"
+						}
+					],
+					"c":[
+						{
+							"p":1,
+							"c":""
+						}
+					]
+				},				{
+					"a":[
+						{
+							"cod":1,
+							"val":"Elle a d&ucirc; faire toutes les guerres"
+						}
+					],
+					"c":[
+						{
+							"p":1,
+							"c":""
+						}
+					]
+				},
+				{
+					"a":[
+						{
+							"cod":1,
+							"val":"De la vie, et l'amour aussi"
+						}
+					],
+					"c":[
+						{
+							"p":1,
+							"c":""
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "7f3d27d5-4c05-436d-bf5e-546b0f3ec55b",
+			"pid": "21c929c4-600e-48ec-8717-678c1824eec7",
+			"phrss":[
+				{
+					"a":[
+						{
+							"cod":1,
+							"val":"Elle vit de son mieux"
+						}
+					],
+					"c":[
+						{
+							"p":1,
+							"c":""
+						}
+					]
+				},
+				{
+					"a":[
+						{
+							"cod":1,
+							"val":"Son r&ecirc;ve d'opaline"
+						}
+					],
+					"c":[
+						{
+							"p":1,
+							"c":""
+						}
+					]
+				},				{
+					"a":[
+						{
+							"cod":1,
+							"val":"Elle danse au milieu"
+						}
+					],
+					"c":[
+						{
+							"p":1,
+							"c":""
+						}
+					]
+				},
+				{
+					"a":[
+						{
+							"cod":1,
+							"val":"Des for&ecirc;ts qu'elle dessine"
+						}
+					],
+					"c":[
+						{
+							"p":1,
+							"c":""
+						}
+					]
+				},				{
+					"a":[
+						{
+							"cod":1,
+							"val":"Je l'aime &agrave; mourir"
+						}
+					],
+					"c":[
+						{
+							"p":1,
+							"c":""
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "18e91c8d-4ae0-4de9-8e0d-1a64a3905737",
+			"pid": "21c929c4-600e-48ec-8717-678c1824eec7",
+			"phrss":[
+				{
+					"a":[
+						{
+							"cod":1,
+							"val":"Elle porte des rubans"
+						}
+					],
+					"c":[
+						{
+							"p":1,
+							"c":""
+						}
+					]
+				},
+				{
+					"a":[
+						{
+							"cod":1,
+							"val":"Qu'elle laisse s'envoler"
+						}
+					],
+					"c":[
+						{
+							"p":1,
+							"c":""
+						}
+					]
+				},				{
+					"a":[
+						{
+							"cod":1,
+							"val":"Elle me chante souvent"
+						}
+					],
+					"c":[
+						{
+							"p":1,
+							"c":""
+						}
+					]
+				},
+				{
+					"a":[
+						{
+							"cod":1,
+							"val":"Que j'ai tort d'essayer"
+						}
+					],
+					"c":[
+						{
+							"p":1,
+							"c":""
+						}
+					]
+				},				{
+					"a":[
+						{
+							"cod":1,
+							"val":"De les retenir"
+						}
+					],
+					"c":[
+						{
+							"p":1,
+							"c":""
+						}
+					]
+				},
+				{
+					"a":[
+						{
+							"cod":1,
+							"val":"De les retenir"
+						}
+					],
+					"c":[
+						{
+							"p":1,
+							"c":""
+						}
+					]
+				},				{
+					"a":[
+						{
+							"cod":1,
+							"val":"Je l'aime &agrave; mourir"
+						}
+					],
+					"c":[
+						{
+							"p":1,
+							"c":""
+						}
+					]
+				},
+				{
+					"a":[
+						{
+							"cod":1,
+							"val":"Pour monter dans sa grotte"
+						}
+					],
+					"c":[
+						{
+							"p":1,
+							"c":""
+						}
+					]
+				},				{
+					"a":[
+						{
+							"cod":1,
+							"val":"Cach&eacute;e sous les toits"
+						}
+					],
+					"c":[
+						{
+							"p":1,
+							"c":""
+						}
+					]
+				},
+				{
+					"a":[
+						{
+							"cod":1,
+							"val":"Je dois clouer des notes"
+						}
+					],
+					"c":[
+						{
+							"p":1,
+							"c":""
+						}
+					]
+				},				{
+					"a":[
+						{
+							"cod":1,
+							"val":"&agrave; mes sabots de bois"
+						}
+					],
+					"c":[
+						{
+							"p":1,
+							"c":""
+						}
+					]
+				},
+				{
+					"a":[
+						{
+							"cod":1,
+							"val":"Je l'aime &agrave; mourir"
+						}
+					],
+					"c":[
+						{
+							"p":1,
+							"c":""
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "8b4a3931-398b-4612-abfb-6814b46b3cfe",
+			"pid": "21c929c4-600e-48ec-8717-678c1824eec7",
+			"phrss":[
+				{
+					"a":[
+						{
+							"cod":1,
+							"val":"Je dois juste m'asseoir"
+						}
+					],
+					"c":[
+						{
+							"p":1,
+							"c":""
+						}
+					]
+				},
+				{
+					"a":[
+						{
+							"cod":1,
+							"val":"Je ne dois pas parler"
+						}
+					],
+					"c":[
+						{
+							"p":1,
+							"c":""
+						}
+					]
+				},				{
+					"a":[
+						{
+							"cod":1,
+							"val":"Je ne dois rien vouloir"
+						}
+					],
+					"c":[
+						{
+							"p":1,
+							"c":""
+						}
+					]
+				},
+				{
+					"a":[
+						{
+							"cod":1,
+							"val":"Je dois juste essayer"
+						}
+					],
+					"c":[
+						{
+							"p":1,
+							"c":""
+						}
+					]
+				},				{
+					"a":[
+						{
+							"cod":1,
+							"val":"De lui appartenir"
+						}
+					],
+					"c":[
+						{
+							"p":1,
+							"c":""
+						}
+					]
+				},
+				{
+					"a":[
+						{
+							"cod":1,
+							"val":"De lui appartenir"
+						}
+					],
+					"c":[
+						{
+							"p":1,
+							"c":""
+						}
+					]
+				},				{
+					"a":[
+						{
+							"cod":1,
+							"val":"Je l'aime &agrave; mourir"
+						}
+					],
+					"c":[
+						{
+							"p":1,
+							"c":""
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "b7052760-bd21-4866-9a32-6e2e9b22d927",
+			"pid": "69c0e030-f496-4865-bb17-569399091da5",
+			"phrss":[
+				{
+					"a":[
+						{
+							"cod":1,
+							"val":"Elle a d&ucirc; faire toutes les guerres"
+						}
+					],
+					"c":[
+						{
+							"p":1,
+							"c":""
+						}
+					]
+				},
+				{
+					"a":[
+						{
+							"cod":1,
+							"val":"Pour &ecirc;tre si forte aujourd'hui"
+						}
+					],
+					"c":[
+						{
+							"p":1,
+							"c":""
+						}
+					]
+				},				{
+					"a":[
+						{
+							"cod":1,
+							"val":"Elle a d&ucirc; faire toutes les guerres"
+						}
+					],
+					"c":[
+						{
+							"p":1,
+							"c":""
+						}
+					]
+				},
+				{
+					"a":[
+						{
+							"cod":1,
+							"val":"De la vie, et l'amour aussi"
+						}
+					],
+					"c":[
+						{
+							"p":1,
+							"c":""
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "1af76b09-4a23-4d04-88fd-ae00e87fa046",
+			"pid": "21c929c4-600e-48ec-8717-678c1824eec7",
+			"phrss":[
+				{
+					"a":[
+						{
+							"cod":1,
+							"val":"Moi je n'&eacute;tais rien"
+						}
+					],
+					"c":[
+						{
+							"p":1,
+							"c":""
+						}
+					]
+				},
+				{
+					"a":[
+						{
+							"cod":1,
+							"val":"Et voil&agrave; qu'aujourd'hui"
+						}
+					],
+					"c":[
+						{
+							"p":1,
+							"c":""
+						}
+					]
+				},				{
+					"a":[
+						{
+							"cod":1,
+							"val":"Je suis le gardien"
+						}
+					],
+					"c":[
+						{
+							"p":1,
+							"c":""
+						}
+					]
+				},
+				{
+					"a":[
+						{
+							"cod":1,
+							"val":"Du sommeil de ses nuits"
+						}
+					],
+					"c":[
+						{
+							"p":1,
+							"c":""
+						}
+					]
+				},				{
+					"a":[
+						{
+							"cod":1,
+							"val":"Je l'aime &agrave; mourir"
+						}
+					],
+					"c":[
+						{
+							"p":1,
+							"c":""
+						}
+					]
+				},
+				{
+					"a":[
+						{
+							"cod":1,
+							"val":"Vous pouvez d&eacute;truire"
+						}
+					],
+					"c":[
+						{
+							"p":1,
+							"c":""
+						}
+					]
+				},				{
+					"a":[
+						{
+							"cod":1,
+							"val":"Tout ce qu'il vous plaira"
+						}
+					],
+					"c":[
+						{
+							"p":1,
+							"c":""
+						}
+					]
+				},
+				{
+					"a":[
+						{
+							"cod":1,
+							"val":"Elle n'aura qu'&agrave; ouvrir"
+						}
+					],
+					"c":[
+						{
+							"p":1,
+							"c":""
+						}
+					]
+				},				{
+					"a":[
+						{
+							"cod":1,
+							"val":"L'espace de ses bras"
+						}
+					],
+					"c":[
+						{
+							"p":1,
+							"c":""
+						}
+					]
+				},
+				{
+					"a":[
+						{
+							"cod":1,
+							"val":"Pour tout reconstruire"
+						}
+					],
+					"c":[
+						{
+							"p":1,
+							"c":""
+						}
+					]
+				},				{
+					"a":[
+						{
+							"cod":1,
+							"val":"Pour tout reconstruire"
+						}
+					],
+					"c":[
+						{
+							"p":1,
+							"c":""
+						}
+					]
+				},
+				{
+					"a":[
+						{
+							"cod":1,
+							"val":"Je l'aime &agrave; mourir"
+						}
+					],
+					"c":[
+						{
+							"p":1,
+							"c":""
 						}
 					]
 				}
