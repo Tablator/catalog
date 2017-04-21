@@ -99,7 +99,7 @@
 	"phrs": 1,
 	"prts":[
 		{
-			"id": "9bd56e9b-5c7d-4ff3-a63b-3afc598b7e74",//intro
+			"id": "9bd56e9b-5c7d-4ff3-a63b-3afc598b7e74",
 			"pid": "4fe46b9b-dd01-4864-8c3d-ef6675b377ca",
 			"phrss":[
 				{
@@ -126,7 +126,7 @@
 			]
 		},
 		{
-			"id": "af4f5dbd-2955-422a-b6c6-e97380757cbf",//verse 1
+			"id": "af4f5dbd-2955-422a-b6c6-e97380757cbf",
 			"pid": "a97a9836-ad33-4534-9b75-fd58b653058e",
 			"phrss":[
 				{
@@ -239,7 +239,7 @@
 					"a":[
 						{
 							"cod":1,
-							"val":"[WS] Slowly fade away [WS] [WS]"
+							"val":"[NCHR][WS]Slowly fade away[WS][NCHR][WS][NCHR]"
 						}
 					],
 					"c":[
@@ -271,7 +271,7 @@
 					"a":[
 						{
 							"cod":1,
-							"val":"[WS] So I start a revolution from my bed"
+							"val":"[NCHR][WS]So I start a revolution from my bed"
 						}
 					],
 					"c":[
@@ -427,7 +427,7 @@
 					"a":[
 						{
 							"cod":1,
-							"val":"as she's walking on by [WS] [WS]"
+							"val":"as she's walking on by[WS][NCHR][WS][NCHR]"
 						}
 					],
 					"c":[
@@ -453,7 +453,7 @@
 					"a":[
 						{
 							"cod":1,
-							"val":"Her soul slides away, [WS] but don't look back in anger [WS]"
+							"val":"Her soul slides away,[WS][NCHR][WS]but don't look back in anger[WS][NCHR]"
 						}
 					],
 					"c":[
@@ -486,7 +486,7 @@
 					"a":[
 						{
 							"cod":1,
-							"val":"I heard you say [WS] [WS] [WS] [WS] [WS] [WS] [WS] [WS]"
+							"val":"I heard you say[WS][NCHR][WS][NCHR][WS][NCHR][WS][NCHR][WS][NCHR][WS][NCHR][WS][NCHR][WS][NCHR]"
 						}
 					],
 					"c":[
@@ -536,7 +536,7 @@
 					"a":[
 						{
 							"cod":1,
-							"val":"Take me to the place where you [WS] go"
+							"val":"Take me to the place where you[WS][NCHR][WS]go"
 						}
 					],
 					"c":[
@@ -558,7 +558,7 @@
 					"a":[
 						{
 							"cod":1,
-							"val":"Where nobody knows, [WS] if it's night or day"
+							"val":"Where nobody knows,[WS][NCHR][WS]if it's night or day"
 						}
 					],
 					"c":[
@@ -613,7 +613,7 @@
 					"a":[
 						{
 							"cod":1,
-							"val":"of a rock and roll band, [WS] who'll throw it all away"
+							"val":"of a rock and roll band,[WS][NCHR][WS]who'll throw it all away"
 						}
 					],
 					"c":[
@@ -652,7 +652,7 @@
 					"a":[
 						{
 							"cod":1,
-							"val":"[WS] Gonna start a revolution from my bed"
+							"val":"[NCHR][WS]Gonna start a revolution from my bed"
 						}
 					],
 					"c":[
@@ -808,7 +808,7 @@
 					"a":[
 						{
 							"cod":1,
-							"val":"as she's walking on by [WS] [WS]"
+							"val":"as she's walking on by[WS][NCHR][WS][NCHR]"
 						}
 					],
 					"c":[
@@ -834,7 +834,7 @@
 					"a":[
 						{
 							"cod":1,
-							"val":"Her soul slides away, [WS] but don't look back in anger [WS]"
+							"val":"Her soul slides away,[WS][NCHR][WS]but don't look back in anger[WS][NCHR]"
 						}
 					],
 					"c":[
@@ -867,7 +867,7 @@
 					"a":[
 						{
 							"cod":1,
-							"val":"I heard you say [WS] [WS]"
+							"val":"I heard you say[WS][NCHR][WS][NCHR]"
 						}
 					],
 					"c":[
@@ -888,14 +888,14 @@
 			]
 		},
 		{
-			"id": "eb7b8e8f-9026-4f26-9aa8-e9be248d5ad8",//solo
+			"id": "eb7b8e8f-9026-4f26-9aa8-e9be248d5ad8",
 			"pid": "01a261dc-39a8-478d-891b-4fdd72b57fd3",
 			"phrss":[
 				{
 					"a":[
 						{
 							"cod":1,
-							"val":"[WS] [WS] [WS]"
+							"val":"[NCHR][WS][NCHR][WS][NCHR]"
 						}
 					],
 					"c":[
@@ -917,7 +917,7 @@
 					"a":[
 						{
 							"cod":1,
-							"val":"[WS] [WS] [WS]"
+							"val":"[NCHR][WS][NCHR][WS][NCHR]"
 						}
 					],
 					"c":[
@@ -939,7 +939,7 @@
 					"a":[
 						{
 							"cod":1,
-							"val":"[WS] [WS] [WS]"
+							"val":"[NCHR][WS][NCHR][WS][NCHR]"
 						}
 					],
 					"c":[
@@ -961,7 +961,7 @@
 					"a":[
 						{
 							"cod":1,
-							"val":"[WS]"
+							"val":"[NCHR]"
 						}
 					],
 					"c":[
@@ -975,7 +975,7 @@
 					"a":[
 						{
 							"cod":1,
-							"val":"[WS]"
+							"val":"[NCHR]"
 						}
 					],
 					"c":[
@@ -989,7 +989,7 @@
 					"a":[
 						{
 							"cod":1,
-							"val":"[WS] [WS] [WS] [WS]"
+							"val":"[NCHR][WS][NCHR][WS][NCHR][WS][NCHR]"
 						}
 					],
 					"c":[
@@ -1051,7 +1051,7 @@
 					"a":[
 						{
 							"cod":1,
-							"val":"as she's walking on by [WS] [WS]"
+							"val":"as she's walking on by[WS][NCHR][WS][NCHR]"
 						}
 					],
 					"c":[
@@ -1077,7 +1077,7 @@
 					"a":[
 						{
 							"cod":1,
-							"val":"Her soul slides away, [WS] but don't look back in anger [WS]"
+							"val":"Her soul slides away,[WS][NCHR][WS]but don't look back in anger[WS][NCHR]"
 						}
 					],
 					"c":[
@@ -1110,7 +1110,7 @@
 					"a":[
 						{
 							"cod":1,
-							"val":"I heard you say [WS] [WS]"
+							"val":"I heard you say[WS][NCHR][WS][NCHR]"
 						}
 					],
 					"c":[
