@@ -239,7 +239,7 @@
 					"a":[
 						{
 							"cod":1,
-							"val":"[WS]Slowly fade away[WS][WS]"
+							"val":"[WS] Slowly fade away [WS] [WS]"
 						}
 					],
 					"c":[
@@ -453,7 +453,7 @@
 					"a":[
 						{
 							"cod":1,
-							"val":"Her soul slides away, [WS] but don't look back in anger[WS]"
+							"val":"Her soul slides away, [WS] but don't look back in anger [WS]"
 						}
 					],
 					"c":[
@@ -834,7 +834,7 @@
 					"a":[
 						{
 							"cod":1,
-							"val":"Her soul slides away, [WS] but don't look back in anger[WS]"
+							"val":"Her soul slides away, [WS] but don't look back in anger [WS]"
 						}
 					],
 					"c":[
@@ -1077,7 +1077,7 @@
 					"a":[
 						{
 							"cod":1,
-							"val":"Her soul slides away, [WS] but don't look back in anger[WS]"
+							"val":"Her soul slides away, [WS] but don't look back in anger [WS]"
 						}
 					],
 					"c":[
@@ -1162,7 +1162,7 @@
 					"a":[
 						{
 							"cod":1,
-							"val":"as she's walking on by [WS] [WS]"
+							"val":"as she's walking on by[WS][NCHR][WS][NCHR]"
 						}
 					],
 					"c":[
@@ -1238,7 +1238,7 @@
 					"a":[
 						{
 							"cod":1,
-							"val":"I heard you say [WS] [WS] [WS] [WS] [WS] least not today"
+							"val":"I heard you say[WS][NCHR][WS][NCHR][WS][NCHR][WS][NCHR][WS][NCHR][WS]least not today"
 						}
 					],
 					"c":[
