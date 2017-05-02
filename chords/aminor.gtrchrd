@@ -1,0 +1,9 @@
+{
+	"name":"A Minor",
+	"short_name":"Am",
+	"compositions":[
+		{
+			"composition":"|0|2|2|1|0|0"
+		}
+	]
+}

@@ -1,0 +1,9 @@
+{
+	"name":"C Major",
+	"short_name":"C",
+	"compositions":[
+		{
+			"composition":"|3|2|1|0|0|0"
+		}
+	]
+}
