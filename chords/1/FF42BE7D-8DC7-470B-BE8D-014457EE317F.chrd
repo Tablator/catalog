@@ -1,0 +1,26 @@
+{
+	"id":"FF42BE7D-8DC7-470B-BE8D-014457EE317F",
+	"attrs":
+	[
+		{
+			"cd":1,
+			"vl":"C major"
+		},
+		{
+			"cd":2,
+			"vl":"C"
+		}
+	],
+	"compositions":[
+		{
+			"id":1,
+			"default":true,
+			"attrs":[
+				{
+					"cd":1,
+					"vl":"|3|2|1|0|0|0"
+				}
+			]
+		}
+	]
+}

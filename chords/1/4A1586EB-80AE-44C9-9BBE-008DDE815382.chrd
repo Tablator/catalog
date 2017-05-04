@@ -1,0 +1,26 @@
+{
+	"id":"4A1586EB-80AE-44C9-9BBE-008DDE815382",
+	"attrs":
+	[
+		{
+			"cd":1,
+			"vl":"A minor"
+		},
+		{
+			"cd":2,
+			"vl":"Am"
+		}
+	],
+	"compositions":[
+		{
+			"id":1,
+			"default":true,
+			"attrs":[
+				{
+					"cd":1,
+					"vl":"|0|2|2|1|0|0"
+				}
+			]
+		}
+	]
+}
