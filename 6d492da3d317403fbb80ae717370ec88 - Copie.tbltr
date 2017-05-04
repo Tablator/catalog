@@ -1,0 +1,1434 @@
+{
+  "pprts": [
+    {
+      "cod": 1,
+      "val": "Don't look back in anger"
+    },
+    {
+      "cod": 2,
+      "val": "Oasis"
+    },
+    {
+      "cod": 3,
+      "val": 80
+    },
+    {
+      "cod": 4,
+      "val": 44
+    },
+    {
+      "cod": 5,
+      "val": "6d492da3-d317-403f-bb80-ae717370ec88"
+    }
+  ],
+  "sftvrsn": {
+    "mjr": 0,
+    "mnr": 0,
+    "rev": 16
+  },
+  "dclrtns":[ //declaration des sections optionelles qu'on trouvera dans le fichier. Permettra de charger les settings
+	{
+		"type":2,// => structure d'une chanson
+		"key":null,
+		"id": "F8246D2B-7C27-4E8E-BBBC-0318F8D60C6E"
+	},
+	{
+		"type":1,// => language ressource
+		"key":"fr",
+		"id": "0B8A3FEA-5A3B-4170-8075-04F4DCECC284"
+	},
+	{
+		"type":1,// => language ressource
+		"key":"en",
+		"id": "E187A2EB-FD45-4F97-B011-0500BF129C8C"
+	},
+	{
+		"type":6,// => instrument settings
+		"key":1,// => Guitar (faire référence à même enum que tracks => Guitar, Guitar 1, Guitar 2, Guitar Solo, Bass, ...)
+		"id": "68085EB1-DDBB-4ECF-848E-057B3411319E"
+	},
+	{
+		"type":3,// => lyrics & chords
+		"key":null,
+		"id": "8D329560-87F2-4AC2-AB8C-05E3C7861449"
+	}
+  ],
+  "sctns":[ // contenu du fichier
+	{
+		"id":"F8246D2B-7C27-4E8E-BBBC-0318F8D60C6E",
+		"type":2,// => structure d'une chanson
+		"content":[
+			{
+			  "id": "4fe46b9b-dd01-4864-8c3d-ef6675b377ca",
+			  "rpt": 1
+			},
+			{
+			  "id": "a97a9836-ad33-4534-9b75-fd58b653058e",
+			  "rpt": 1
+			},
+			{
+			  "id": "88df95fa-27ff-4c38-8933-9cd35affe06c",
+			  "rpt": 1
+			},
+			{
+			  "id": "dc364640-ce0c-4717-93d6-612e2bc6ff3f",
+			  "rpt": 1
+			},
+			{
+			  "id": "a97a9836-ad33-4534-9b75-fd58b653058e",
+			  "rpt": 1
+			},
+			{
+			  "id": "88df95fa-27ff-4c38-8933-9cd35affe06c",
+			  "rpt": 1
+			},
+			{
+			  "id": "dc364640-ce0c-4717-93d6-612e2bc6ff3f",
+			  "rpt": 1
+			},
+			{
+			  "id": "01a261dc-39a8-478d-891b-4fdd72b57fd3",
+			  "rpt": 1
+			},
+			{
+			  "id": "dc364640-ce0c-4717-93d6-612e2bc6ff3f",
+			  "rpt": 1
+			}
+		]
+	},
+	{
+		"id":"0B8A3FEA-5A3B-4170-8075-04F4DCECC284",
+		"type":1,// => language ressource
+		"content":[
+			{
+			  "lng": "fr",
+			  "cmt": "",
+			  "cnt": [
+				{
+				  "type": 1,
+				  "field": 1,
+				  "id": "4fe46b9b-dd01-4864-8c3d-ef6675b377ca",
+				  "content": "Intro"
+				},
+				{
+				  "type": 1,
+				  "field": 1,
+				  "id": "a97a9836-ad33-4534-9b75-fd58b653058e",
+				  "content": "Couplet"
+				},
+				{
+				  "type": 1,
+				  "field": 1,
+				  "id": "88df95fa-27ff-4c38-8933-9cd35affe06c",
+				  "content": "Pr&eacute;-Refrain"
+				},
+				{
+				  "type": 1,
+				  "field": 1,
+				  "id": "dc364640-ce0c-4717-93d6-612e2bc6ff3f",
+				  "content": "Refrain"
+				},
+				{
+				  "type": 1,
+				  "field": 1,
+				  "id": "01a261dc-39a8-478d-891b-4fdd72b57fd3",
+				  "content": "Solo"
+				}
+			  ],
+			  "tags": [  ]
+			}
+		]
+	},
+	{
+		"id":"E187A2EB-FD45-4F97-B011-0500BF129C8C",
+		"type":1,// => language ressource
+		"content":[
+			{
+			  "lng": "en",
+			  "cmt": "",
+			  "cnt": [
+				{
+				  "type": 1,
+				  "field": 1,
+				  "id": "4fe46b9b-dd01-4864-8c3d-ef6675b377ca",
+				  "content": "Intro"
+				},
+				{
+				  "type": 1,
+				  "field": 1,
+				  "id": "a97a9836-ad33-4534-9b75-fd58b653058e",
+				  "content": "Verse"
+				},
+				{
+				  "type": 1,
+				  "field": 1,
+				  "id": "88df95fa-27ff-4c38-8933-9cd35affe06c",
+				  "content": "Pre-Chorus"
+				},
+				{
+				  "type": 1,
+				  "field": 1,
+				  "id": "dc364640-ce0c-4717-93d6-612e2bc6ff3f",
+				  "content": "Chorus"
+				},
+				{
+				  "type": 1,
+				  "field": 1,
+				  "id": "01a261dc-39a8-478d-891b-4fdd72b57fd3",
+				  "content": "part refrain"
+				}
+			  ],
+			  "tags": [  ]
+			}
+		]
+	},
+	{
+		"id":"68085EB1-DDBB-4ECF-848E-057B3411319E",
+		"type":6,// => instrument settings
+		"content":[
+			{
+			  "instrument": {
+				"cod": 1,
+				"typ": 3,
+				"conf": [
+				  {
+					"cod": 1,
+					"pprts": [
+					  {
+						"cod": 1,
+						"val": "standard"
+					  },
+					  {
+						"cod": 2,
+						"val": "0"
+					  }
+					]
+				  },
+				  {
+					"cod": 2,
+					"pprts": null
+				  }
+				]
+			  },
+				"chrds":[
+					{
+						"id":"4A1586EB-80AE-44C9-9BBE-008DDE815382",
+						"cmp":1 // composition
+					},
+					{
+						"id":"FF42BE7D-8DC7-470B-BE8D-014457EE317F",
+						"cmp":1
+					},
+					{
+						"id":"C70C2A4E-98D8-46A1-ABFF-1842953AF132",
+						"cmp":3
+					}
+				]
+			}
+		]
+	},
+	{
+		"id":"8D329560-87F2-4AC2-AB8C-05E3C7861449",
+		"type":3,// lyrics & chords
+		"content":[
+			{
+			"instrument_settings":"68085EB1-DDBB-4ECF-848E-057B3411319E",
+			"lng":"en",
+			"thr":"Oasis",
+			"phrs": 1,
+			"prts":[
+				{
+					"id": "9bd56e9b-5c7d-4ff3-a63b-3afc598b7e74",
+					"pid": "4fe46b9b-dd01-4864-8c3d-ef6675b377ca",
+					"phrss":[
+						{
+							"a":null,
+							"c":[
+								{
+									"p":-1,
+									"c":"C"
+								},
+								{
+									"p":-1,
+									"c":"F"
+								},
+								{
+									"p":-1,
+									"c":"C"
+								},
+								{
+									"p":-1,
+									"c":"F"
+								}
+							]
+						}
+					]
+				},
+				{
+					"id": "af4f5dbd-2955-422a-b6c6-e97380757cbf",
+					"pid": "a97a9836-ad33-4534-9b75-fd58b653058e",
+					"phrss":[
+						{
+							"a":[
+								{
+									"cod":1,
+									"val":"Slip inside the eye of your mind"
+								}
+							],
+							"c":[
+								{
+									"p":1,
+									"c":"C"
+								},
+								{
+									"p":4,
+									"c":"G"
+								},
+								{
+									"p":7,
+									"c":"Am"
+								}
+							]
+						},
+						{
+							"a":[
+								{
+									"cod":1,
+									"val":"Don't you know you might find"
+								}
+							],
+							"c":[
+								{
+									"p":3,
+									"c":"E7"
+								},
+								{
+									"p":6,
+									"c":"F"
+								}
+							]
+						},
+						{
+							"a":[
+								{
+									"cod":1,
+									"val":"A better place to play"
+								}
+							],
+							"c":[
+								{
+									"p":-2,// -1=center ,-2= align left,-3= align right
+									"c":"G"
+								},
+								{
+									"p":5,
+									"c":"C"
+								},
+								{
+									"p":-3,
+									"c":"Am"
+								},
+								{
+									"p":-3,
+									"c":"G"
+								}
+							]
+						},
+						{
+							"a":[
+								{
+									"cod":1,
+									"val":"You said that you'd never been"
+								}
+							],
+							"c":[
+								{
+									"p":1,
+									"c":"C"
+								},
+								{
+									"p":4,
+									"c":"G"
+								},
+								{
+									"p":6,
+									"c":"Am"
+								}
+							]
+						},
+						{
+							"a":[
+								{
+									"cod":1,
+									"val":"But all the things that you've seen"
+								}
+							],
+							"c":[
+								{
+									"p":4,
+									"c":"E7"
+								},
+								{
+									"p":7,
+									"c":"F"
+								}
+							]
+						},
+						{
+							"a":[
+								{
+									"cod":1,
+									"val":"[NCHR][WS]Slowly fade away[WS][NCHR][WS][NCHR]"
+								}
+							],
+							"c":[
+								{
+									"p":1,
+									"c":"G"
+								},
+								{
+									"p":4,
+									"c":"C"
+								},
+								{
+									"p":5,
+									"c":"Am"
+								},
+								{
+									"p":6,
+									"c":"C"
+								}
+							]
+						}
+					]
+				},
+				{
+					"id": "262a3118-9fa7-4b40-9860-71e88675125a", //pre-chorus
+					"pid": "88df95fa-27ff-4c38-8933-9cd35affe06c",
+					"phrss":[
+						{
+							"a":[
+								{
+									"cod":1,
+									"val":"[NCHR][WS]So I start a revolution from my bed"
+								}
+							],
+							"c":[
+								{
+									"p":1,
+									"c":"F"
+								},
+								{
+									"p":6,
+									"c":"Fm"
+								},
+								{
+									"p":9,
+									"c":"C"
+								}
+							]
+						},
+						{
+							"a":[
+								{
+									"cod":1,
+									"val":"Cos you said the brains I had went to my head"
+								}
+							],
+							"c":[
+								{
+									"p":3,
+									"c":"F"
+								},
+								{
+									"p":7,
+									"c":"Fm"
+								},
+								{
+									"p":11,
+									"c":"C"
+								}
+							]
+						},
+						{
+							"a":[
+								{
+									"cod":1,
+									"val":"Step outside, the summertime's in bloom"
+								}
+							],
+							"c":[
+								{
+									"p":1,
+									"c":"F"
+								},
+								{
+									"p":4,
+									"c":"Fm"
+								},
+								{
+									"p":6,
+									"c":"C"
+								}
+							]
+						},
+						{
+							"a":[
+								{
+									"cod":1,
+									"val":"Stand up beside the fireplace"
+								}
+							],
+							"c":[
+								{
+									"p":1,
+									"c":"G"
+								}
+							]
+						},
+						{
+							"a":[
+								{
+									"cod":1,
+									"val":"Take that look from off your face"
+								}
+							],
+							"c":[
+								{
+									"p":1,
+									"c":"E7/G#"
+								}
+							]
+						},
+						{
+							"a":[
+								{
+									"cod":1,
+									"val":"Cos you ain't ever gonna burn my heart out"
+								}
+							],
+							"c":[
+								{
+									"p":2,
+									"c":"Am"
+								},
+								{
+									"p":5,
+									"c":"G"
+								},
+								{
+									"p":8,
+									"c":"F"
+								},
+								{
+									"p":9,
+									"c":"G"
+								}
+							]
+						}
+					]
+				},
+				{
+					"id": "2e22748c-7af4-4289-b685-dc2faf4294ba", //chorus
+					"pid": "dc364640-ce0c-4717-93d6-612e2bc6ff3f",
+					"phrss":[
+						{
+							"a":[
+								{
+									"cod":1,
+									"val":"So Sally can wait, she knows it's too late"
+								}
+							],
+							"c":[
+								{
+									"p":1,
+									"c":"C"
+								},
+								{
+									"p":2,
+									"c":"G"
+								},
+								{
+									"p":4,
+									"c":"Am"
+								},
+								{
+									"p":6,
+									"c":"E7"
+								},
+								{
+									"p":9,
+									"c":"F"
+								}
+							]
+						},
+						{
+							"a":[
+								{
+									"cod":1,
+									"val":"as she's walking on by[WS][NCHR][WS][NCHR]"
+								}
+							],
+							"c":[
+								{
+									"p":3,
+									"c":"G"
+								},
+								{
+									"p":5,
+									"c":"C"
+								},
+								{
+									"p":6,
+									"c":"Am"
+								},
+								{
+									"p":7,
+									"c":"G"
+								}
+							]
+						},
+						{
+							"a":[
+								{
+									"cod":1,
+									"val":"Her soul slides away,[WS][NCHR][WS]but don't look back in anger[WS][NCHR]"
+								}
+							],
+							"c":[
+								{
+									"p":2,
+									"c":"C"
+								},
+								{
+									"p":3,
+									"c":"G"
+								},
+								{
+									"p":4,
+									"c":"Am"
+								},{
+									"p":5,
+									"c":"E7"
+								},
+								{
+									"p":9,
+									"c":"F"
+								},
+								{
+									"p":12,
+									"c":"G"
+								}
+							]
+						},
+						{
+							"a":[
+								{
+									"cod":1,
+									"val":"I heard you say[WS][NCHR][WS][NCHR][WS][NCHR][WS][NCHR][WS][NCHR][WS][NCHR][WS][NCHR][WS][NCHR]"
+								}
+							],
+							"c":[
+								{
+									"p":4,
+									"c":"C"
+								},
+								{
+									"p":5,
+									"c":"G"
+								},
+								{
+									"p":6,
+									"c":"Am"
+								},{
+									"p":7,
+									"c":"E7"
+								},
+								{
+									"p":8,
+									"c":"F"
+								},
+								{
+									"p":9,
+									"c":"G"
+								},{
+									"p":10,
+									"c":"C"
+								},
+								{
+									"p":11,
+									"c":"Am"
+								},
+								{
+									"p":12,
+									"c":"G"
+								}
+							]
+						}
+					]
+				},
+				{
+					"id": "7f3d27d5-4c05-436d-bf5e-546b0f3ec55b",//verse 2
+					"pid": "a97a9836-ad33-4534-9b75-fd58b653058e",
+					"phrss":[
+						{
+							"a":[
+								{
+									"cod":1,
+									"val":"Take me to the place where you[WS][NCHR][WS]go"
+								}
+							],
+							"c":[
+								{
+									"p":1,
+									"c":"C"
+								},
+								{
+									"p":5,
+									"c":"G"
+								},
+								{
+									"p":8,
+									"c":"Am"
+								}
+							]
+						},
+						{
+							"a":[
+								{
+									"cod":1,
+									"val":"Where nobody knows,[WS][NCHR][WS]if it's night or day"
+								}
+							],
+							"c":[
+								{
+									"p":2,
+									"c":"E7"
+								},
+								{
+									"p":3,
+									"c":"F"
+								},
+								{
+									"p":4,
+									"c":"G"
+								},{
+									"p":9,
+									"c":"C"
+								},
+								{
+									"p":10,
+									"c":"Am"
+								},
+								{
+									"p":11,
+									"c":"G"
+								}
+							]
+						},
+						{
+							"a":[
+								{
+									"cod":1,
+									"val":"Please don't put your life in the hands"
+								}
+							],
+							"c":[
+								{
+									"p":1,
+									"c":"C"
+								},
+								{
+									"p":5,
+									"c":"G"
+								},
+								{
+									"p":8,
+									"c":"Am"
+								}
+							]
+						},
+						{
+							"a":[
+								{
+									"cod":1,
+									"val":"of a rock and roll band,[WS][NCHR][WS]who'll throw it all away"
+								}
+							],
+							"c":[
+								{
+									"p":3,
+									"c":"E7"
+								},
+								{
+									"p":6,
+									"c":"F"
+								},
+								{
+									"p":7,
+									"c":"G"
+								},{
+									"p":12,
+									"c":"C"
+								},
+								{
+									"p":13,
+									"c":"Am"
+								},
+								{
+									"p":14,
+									"c":"G"
+								}
+							]
+						}
+					]
+				},
+				{
+					"id": "18e91c8d-4ae0-4de9-8e0d-1a64a3905737",//pre-chorus
+					"pid": "88df95fa-27ff-4c38-8933-9cd35affe06c",
+					"phrss":[
+						{
+							"a":[
+								{
+									"cod":1,
+									"val":"[NCHR][WS]Gonna start a revolution from my bed"
+								}
+							],
+							"c":[
+								{
+									"p":1,
+									"c":"F"
+								},
+								{
+									"p":5,
+									"c":"Fm"
+								},
+								{
+									"p":8,
+									"c":"C"
+								}
+							]
+						},
+						{
+							"a":[
+								{
+									"cod":1,
+									"val":"Cos you said the brains I had went to my head"
+								}
+							],
+							"c":[
+								{
+									"p":3,
+									"c":"F"
+								},
+								{
+									"p":6,
+									"c":"Fm"
+								},
+								{
+									"p":11,
+									"c":"C"
+								}
+							]
+						},
+						{
+							"a":[
+								{
+									"cod":1,
+									"val":"Step outside, the summertime's in bloom"
+								}
+							],
+							"c":[
+								{
+									"p":1,
+									"c":"F"
+								},
+								{
+									"p":4,
+									"c":"Fm"
+								},
+								{
+									"p":6,
+									"c":"C"
+								}
+							]
+						},
+						{
+							"a":[
+								{
+									"cod":1,
+									"val":"Stand up beside the fireplace"
+								}
+							],
+							"c":[
+								{
+									"p":1,
+									"c":"G"
+								}
+							]
+						},
+						{
+							"a":[
+								{
+									"cod":1,
+									"val":"Take that look from off your face"
+								}
+							],
+							"c":[
+								{
+									"p":1,
+									"c":"E7/G#"
+								}
+							]
+						},
+						{
+							"a":[
+								{
+									"cod":1,
+									"val":"Cos you ain't ever gonna burn my heart out"
+								}
+							],
+							"c":[
+								{
+									"p":2,
+									"c":"Am"
+								},
+								{
+									"p":5,
+									"c":"G"
+								},
+								{
+									"p":8,
+									"c":"F"
+								},
+								{
+									"p":9,
+									"c":"G"
+								}
+							]
+						}
+					]
+				},
+				{
+					"id": "8b4a3931-398b-4612-abfb-6814b46b3cfe", //chorus
+					"pid": "dc364640-ce0c-4717-93d6-612e2bc6ff3f",
+					"phrss":[
+						{
+							"a":[
+								{
+									"cod":1,
+									"val":"So Sally can wait, she knows it's too late"
+								}
+							],
+							"c":[
+								{
+									"p":1,
+									"c":"C"
+								},
+								{
+									"p":2,
+									"c":"G"
+								},
+								{
+									"p":4,
+									"c":"Am"
+								},
+								{
+									"p":6,
+									"c":"E7"
+								},
+								{
+									"p":9,
+									"c":"F"
+								}
+							]
+						},
+						{
+							"a":[
+								{
+									"cod":1,
+									"val":"as she's walking on by[WS][NCHR][WS][NCHR]"
+								}
+							],
+							"c":[
+								{
+									"p":3,
+									"c":"G"
+								},
+								{
+									"p":5,
+									"c":"C"
+								},
+								{
+									"p":6,
+									"c":"Am"
+								},
+								{
+									"p":7,
+									"c":"G"
+								}
+							]
+						},
+						{
+							"a":[
+								{
+									"cod":1,
+									"val":"Her soul slides away,[WS][NCHR][WS]but don't look back in anger[WS][NCHR]"
+								}
+							],
+							"c":[
+								{
+									"p":2,
+									"c":"C"
+								},
+								{
+									"p":3,
+									"c":"G"
+								},
+								{
+									"p":4,
+									"c":"Am"
+								},{
+									"p":5,
+									"c":"E7"
+								},
+								{
+									"p":9,
+									"c":"F"
+								},
+								{
+									"p":12,
+									"c":"G"
+								}
+							]
+						},
+						{
+							"a":[
+								{
+									"cod":1,
+									"val":"I heard you say[WS][NCHR][WS][NCHR]"
+								}
+							],
+							"c":[
+								{
+									"p":4,
+									"c":"C"
+								},
+								{
+									"p":5,
+									"c":"Am"
+								},
+								{
+									"p":6,
+									"c":"G"
+								}
+							]
+						}
+					]
+				},
+				{
+					"id": "eb7b8e8f-9026-4f26-9aa8-e9be248d5ad8",
+					"pid": "01a261dc-39a8-478d-891b-4fdd72b57fd3",
+					"phrss":[
+						{
+							"a":[
+								{
+									"cod":1,
+									"val":"[NCHR][WS][NCHR][WS][NCHR]"
+								}
+							],
+							"c":[
+								{
+									"p":1,
+									"c":"F"
+								},
+								{
+									"p":2,
+									"c":"Fm"
+								},
+								{
+									"p":3,
+									"c":"C"
+								}
+							]
+						},
+						{
+							"a":[
+								{
+									"cod":1,
+									"val":"[NCHR][WS][NCHR][WS][NCHR]"
+								}
+							],
+							"c":[
+								{
+									"p":1,
+									"c":"F"
+								},
+								{
+									"p":2,
+									"c":"Fm"
+								},
+								{
+									"p":3,
+									"c":"C"
+								}
+							]
+						},
+						{
+							"a":[
+								{
+									"cod":1,
+									"val":"[NCHR][WS][NCHR][WS][NCHR]"
+								}
+							],
+							"c":[
+								{
+									"p":1,
+									"c":"F"
+								},
+								{
+									"p":2,
+									"c":"Fm"
+								},
+								{
+									"p":3,
+									"c":"C"
+								}
+							]
+						},
+						{
+							"a":[
+								{
+									"cod":1,
+									"val":"[NCHR]"
+								}
+							],
+							"c":[
+								{
+									"p":1,
+									"c":"G"
+								}
+							]
+						},
+						{
+							"a":[
+								{
+									"cod":1,
+									"val":"[NCHR]"
+								}
+							],
+							"c":[
+								{
+									"p":1,
+									"c":"E7/G#"
+								}
+							]
+						},
+						{
+							"a":[
+								{
+									"cod":1,
+									"val":"[NCHR][WS][NCHR][WS][NCHR][WS][NCHR]"
+								}
+							],
+							"c":[
+								{
+									"p":1,
+									"c":"Am"
+								},
+								{
+									"p":2,
+									"c":"G"
+								},
+								{
+									"p":3,
+									"c":"F"
+								},
+								{
+									"p":4,
+									"c":"G"
+								}
+							]
+						}
+					]
+				},
+				{
+					"id": "20f356f3-b77e-4cb7-93f7-8c5694234977",
+					"pid": "dc364640-ce0c-4717-93d6-612e2bc6ff3f",
+					"phrss":[
+						{
+							"a":[
+								{
+									"cod":1,
+									"val":"So Sally can wait, she knows it's too late"
+								}
+							],
+							"c":[
+								{
+									"p":1,
+									"c":"C"
+								},
+								{
+									"p":2,
+									"c":"G"
+								},
+								{
+									"p":4,
+									"c":"Am"
+								},
+								{
+									"p":6,
+									"c":"E7"
+								},
+								{
+									"p":9,
+									"c":"F"
+								}
+							]
+						},
+						{
+							"a":[
+								{
+									"cod":1,
+									"val":"as she's walking on by[WS][NCHR][WS][NCHR]"
+								}
+							],
+							"c":[
+								{
+									"p":3,
+									"c":"G"
+								},
+								{
+									"p":5,
+									"c":"C"
+								},
+								{
+									"p":6,
+									"c":"Am"
+								},
+								{
+									"p":7,
+									"c":"G"
+								}
+							]
+						},
+						{
+							"a":[
+								{
+									"cod":1,
+									"val":"Her soul slides away,[WS][NCHR][WS]but don't look back in anger[WS][NCHR]"
+								}
+							],
+							"c":[
+								{
+									"p":2,
+									"c":"C"
+								},
+								{
+									"p":3,
+									"c":"G"
+								},
+								{
+									"p":4,
+									"c":"Am"
+								},{
+									"p":5,
+									"c":"E7"
+								},
+								{
+									"p":9,
+									"c":"F"
+								},
+								{
+									"p":12,
+									"c":"G"
+								}
+							]
+						},
+						{
+							"a":[
+								{
+									"cod":1,
+									"val":"I heard you say[WS][NCHR][WS][NCHR]"
+								}
+							],
+							"c":[
+								{
+									"p":4,
+									"c":"C"
+								},
+								{
+									"p":5,
+									"c":"Am"
+								},
+								{
+									"p":6,
+									"c":"G"
+								}
+							]
+						},
+						{
+							"a":[
+								{
+									"cod":1,
+									"val":"So Sally can wait, she knows it's too late"
+								}
+							],
+							"c":[
+								{
+									"p":1,
+									"c":"C"
+								},
+								{
+									"p":2,
+									"c":"G"
+								},
+								{
+									"p":4,
+									"c":"Am"
+								},
+								{
+									"p":6,
+									"c":"E7"
+								},
+								{
+									"p":9,
+									"c":"F"
+								}
+							]
+						},
+						{
+							"a":[
+								{
+									"cod":1,
+									"val":"as she's walking on by[WS][NCHR][WS][NCHR]"
+								}
+							],
+							"c":[
+								{
+									"p":3,
+									"c":"G"
+								},
+								{
+									"p":5,
+									"c":"C"
+								},
+								{
+									"p":6,
+									"c":"Am"
+								},
+								{
+									"p":7,
+									"c":"G"
+								}
+							]
+						},
+						{
+							"a":[
+								{
+									"cod":1,
+									"val":"Her soul slides away"
+								}
+							],
+							"c":[
+								{
+									"p":1,
+									"c":"C"
+								},
+								{
+									"p":3,
+									"c":"G"
+								},
+								{
+									"p":4,
+									"c":"Am"
+								}
+							]
+						},
+						{
+							"a":[
+								{
+									"cod":1,
+									"val":"But don't look back in anger"
+								}
+							],
+							"c":[
+								{
+									"p":4,
+									"c":"F"
+								}
+							]
+						},
+						{
+							"a":[
+								{
+									"cod":1,
+									"val":"Don't look back in anger"
+								}
+							],
+							"c":[
+								{
+									"p":3,
+									"c":"Fm"
+								}
+							]
+						},
+						{
+							"a":[
+								{
+									"cod":1,
+									"val":"I heard you say[WS][NCHR][WS][NCHR][WS][NCHR][WS][NCHR][WS][NCHR][WS]least not today"
+								}
+							],
+							"c":[
+								{
+									"p":4,
+									"c":"C"
+								},
+								{
+									"p":5,
+									"c":"G"
+								},
+								{
+									"p":6,
+									"c":"Am"
+								},
+								{
+									"p":7,
+									"c":"E7"
+								},
+								{
+									"p":8,
+									"c":"F"
+								},
+								{
+									"p":9,
+									"c":"Fm"
+								},
+								{
+									"p":12,
+									"c":"C"
+								}
+							]
+						}
+					]
+				}
+			]
+	}
+		]
+	}
+  ],
+  "updts": [
+    {
+      "dt": "2017-03-24T07:22Z",
+      "actn": 1,
+      "mnl": true,
+      "cmnt": "",
+      "usr": {
+        "display_name": "Adrien Torris",
+        "mail": "",
+        "ip": ""
+      }
+    }
+  ]
+}

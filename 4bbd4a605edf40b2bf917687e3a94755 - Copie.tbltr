@@ -39,7 +39,7 @@
       }
     }
   ],
-  "declarations":[ //declaration des sections optionelles qu'on trouvera dans le fichier. Permettra de charger les settings
+  "dclrtns":[ //declaration des sections optionelles qu'on trouvera dans le fichier. Permettra de charger les settings
 	{
 		"type":1,// => language ressource
 		"key":"fr",
@@ -56,7 +56,7 @@
 		"id": "F27B3CBF-3C81-4226-B65D-298976929EA5"
 	},
 	{
-		"type":3,// => lyrics
+		"type":3,// => lyrics & chords
 		"key":null,
 		"id": "BDFE23BC-55E2-4B16-8DC9-752E9351FA21"
 	},
@@ -69,9 +69,59 @@
 		"type":5,// => track
 		"key":1,// => Guitar (faire référence à une nouvelle énum avec une liste de possibilité => Guitar, Guitar 1, Guitar 2, Guitar Solo, Bass, ...)
 		"id": "EDC09142-AF2A-4407-B869-1E0510CE7166"
+	},
+	{
+		"type":6,// => instrument settings
+		"key":1,// => Guitar (faire référence à même enum que tracks => Guitar, Guitar 1, Guitar 2, Guitar Solo, Bass, ...)
+		"id": "647C7AC5-03CD-4CF2-A040-07EE577A309C"
 	}
   ],
-  "sections":[ // contenu du fichier
+  "sctns":[ // contenu du fichier
+	{
+		"id":"647C7AC5-03CD-4CF2-A040-07EE577A309C",
+		"type":6,// => instrument settings
+		"content":[
+			{
+				"instrument": {
+					"cod": 1,
+					"typ": 3,
+					"conf": [
+					  {
+						"cod": 1,
+						"pprts": [
+						  {
+							"cod": 1,
+							"val": "standard"
+						  },
+						  {
+							"cod": 2,
+							"val": "5"
+						  }
+						]
+					  },
+					  {
+						"cod": 2,
+						"pprts": null
+					  }
+					]
+				},
+				"chrds":[
+					{
+						"id":"4A1586EB-80AE-44C9-9BBE-008DDE815382",
+						"cmp":1 // composition
+					},
+					{
+						"id":"FF42BE7D-8DC7-470B-BE8D-014457EE317F",
+						"cmp":1
+					},
+					{
+						"id":"C70C2A4E-98D8-46A1-ABFF-1842953AF132",
+						"cmp":3
+					}
+				]
+			}
+		]
+	},
 	{
 		"id":"026EEAC4-7418-4F6E-9430-1CD2F2117924",
 		"type":1,// => language ressource
@@ -159,8 +209,9 @@
 	},
 	{
 		"id":"BDFE23BC-55E2-4B16-8DC9-752E9351FA21",
-		"type":3,// => lyrics
+		"type":3,// => lyrics & chords
 		"content":[{
+			"instrument_settings":"647C7AC5-03CD-4CF2-A040-07EE577A309C",
 			"lng":"fr",
 			"thr":"Francis Cabrel",
 			"phrs": 2,
@@ -1470,43 +1521,7 @@
 		"type":5,// => track
 		"content":[
 			{
-				"instrument": {
-					"cod": 1,
-					"typ": 3,
-					"conf": [
-					  {
-						"cod": 1,
-						"pprts": [
-						  {
-							"cod": 1,
-							"val": "standard"
-						  },
-						  {
-							"cod": 2,
-							"val": "5"
-						  }
-						]
-					  },
-					  {
-						"cod": 2,
-						"pprts": null
-					  }
-					]
-				},
-				"chrds":[
-					{
-						"id":"4A1586EB-80AE-44C9-9BBE-008DDE815382",
-						"cmp":1 // composition
-					},
-					{
-						"id":"FF42BE7D-8DC7-470B-BE8D-014457EE317F",
-						"cmp":1
-					},
-					{
-						"id":"C70C2A4E-98D8-46A1-ABFF-1842953AF132",
-						"cmp":3
-					}
-				],
+				"instrument_settings":"647C7AC5-03CD-4CF2-A040-07EE577A309C",
 				"prts": [
 					{
 					  "id": "59e4f4d7-247d-45ff-b62d-2e7e5397251a",
