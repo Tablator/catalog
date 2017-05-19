@@ -1,0 +1,30 @@
+{
+	"id":"4A1586EB-80AE-44C9-9BBE-008DDE815382",
+	"attrs":
+	[
+		{
+			"cod":1,
+			"val":"A minor"
+		},
+		{
+			"cod":2,
+			"val":"Am"
+		},
+		{
+			"cod":3,
+			"val":1
+		}
+	],
+	"compositions":[
+		{
+			"id":1,
+			"default":true,
+			"attrs":[
+				{
+					"cod":1,
+					"val":"|0|2|2|1|0|0"
+				}
+			]
+		}
+	]
+}

@@ -78,7 +78,6 @@
   "sctns":[ // contenu du fichier
 	{
 		"id":"647C7AC5-03CD-4CF2-A040-07EE577A309C",
-		"type":6,// => instrument settings
 		"content":[
 			{
 				"instrument": {
@@ -123,7 +122,6 @@
 	},
 	{
 		"id":"026EEAC4-7418-4F6E-9430-1CD2F2117924",
-		"type":1,// => language ressource
 		"content":[{
 		  "lng": "fr",
 		  "cmt": "Magnifique chanson et tr&egrave;s bon tuto de GalagoMusic",
@@ -151,8 +149,7 @@
 		}]
 	},
 	{
-		"id":"026EEAC4-7418-4F6E-9430-1CD2F2117924",
-		"type":1,// => language ressource
+		"id":"433C4AB3-B18A-4D01-B46B-2548F4C7C3AE",
 		"content":[{
 		  "lng": "en",
 		  "cmt": "",
@@ -182,7 +179,6 @@
 	},
 	{
 		"id":"F27B3CBF-3C81-4226-B65D-298976929EA5",
-		"type":2,// => structure chanson
 		"content":[
 			{
 			  "id": "59e4f4d7-247d-45ff-b62d-2e7e5397251a",
@@ -208,7 +204,6 @@
 	},
 	{
 		"id":"BDFE23BC-55E2-4B16-8DC9-752E9351FA21",
-		"type":3,// => lyrics & chords
 		"content":[{
 			"instrument_settings":"647C7AC5-03CD-4CF2-A040-07EE577A309C",
 			"lng":"fr",
@@ -1506,7 +1501,6 @@
 	},
 	{
 		"id":"561BBA97-E545-46B3-A426-77FFDCBB94A8",
-		"type":4,// => SOURCE
 		"content":[{
 			"type": 1,
 			"support": 1,
@@ -1518,7 +1512,6 @@
 	},
 	{
 		"id":"EDC09142-AF2A-4407-B869-1E0510CE7166",
-		"type":5,// => track
 		"content":[
 			{
 				"instrument_settings":"647C7AC5-03CD-4CF2-A040-07EE577A309C",

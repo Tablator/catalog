@@ -55,7 +55,6 @@
   "sctns":[ // contenu du fichier
 	{
 		"id":"F8246D2B-7C27-4E8E-BBBC-0318F8D60C6E",
-		"type":2,// => structure d'une chanson
 		"content":[
 			{
 			  "id": "4fe46b9b-dd01-4864-8c3d-ef6675b377ca",
@@ -97,7 +96,6 @@
 	},
 	{
 		"id":"0B8A3FEA-5A3B-4170-8075-04F4DCECC284",
-		"type":1,// => language ressource
 		"content":[
 			{
 			  "lng": "fr",
@@ -140,7 +138,6 @@
 	},
 	{
 		"id":"E187A2EB-FD45-4F97-B011-0500BF129C8C",
-		"type":1,// => language ressource
 		"content":[
 			{
 			  "lng": "en",
@@ -183,7 +180,6 @@
 	},
 	{
 		"id":"68085EB1-DDBB-4ECF-848E-057B3411319E",
-		"type":6,// => instrument settings
 		"content":[
 			{
 			  "instrument": {
@@ -228,7 +224,6 @@
 	},
 	{
 		"id":"8D329560-87F2-4AC2-AB8C-05E3C7861449",
-		"type":3,// lyrics & chords
 		"content":[
 			{
 			"instrument_settings":"68085EB1-DDBB-4ECF-848E-057B3411319E",
