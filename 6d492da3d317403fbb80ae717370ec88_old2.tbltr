@@ -25,7 +25,7 @@
     "mjr": 0,
     "mnr": 3
   },
-  "dclrtns":[ 
+  "dclrtns":[ //declaration des sections optionelles qu'on trouvera dans le fichier. Permettra de charger les settings
 	{
 		"type":2,
 		"key":null,
@@ -52,7 +52,7 @@
 		"id": "8D329560-87F2-4AC2-AB8C-05E3C7861449"
 	}
   ],
-  "sctns":[ 
+  "sctns":[ // contenu du fichier
 	{
 		"id":"F8246D2B-7C27-4E8E-BBBC-0318F8D60C6E",
 		"content":[
@@ -208,7 +208,7 @@
 				"chrds":[
 					{
 						"id":"4A1586EB-80AE-44C9-9BBE-008DDE815382",
-						"cmp":1 
+						"cmp":1 // composition
 					},
 					{
 						"id":"FF42BE7D-8DC7-470B-BE8D-014457EE317F",
